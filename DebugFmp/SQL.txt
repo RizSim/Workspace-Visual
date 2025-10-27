@@ -1,0 +1,15 @@
+Dichiara ( [~sql = "
+   SELECT'[\"' + ~name + '\"' , ~value
+   FROM ~table
+   ORDER BY ~name ";
+
+   $sqlQuery = CercaeSost (  ~sql ;
+        ["~table" ;SQLTableName (Dipendenti::ID Operatore)])
+    ;
+   $sqlResult =EseguiSQL ($sqlQuery ;"";"],")
+];
+    //Substitute ($sqlQuery ; " " ;"")&¶" // sql preview
+    If ( $sqlResult ="?" ;
+    "ERRORE";
+    "["& $sqlResult & "]]")
+)

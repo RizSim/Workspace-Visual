@@ -1,0 +1,1 @@
+f = open("C:\\Users\\rizzesim\\M10008.png", "w")

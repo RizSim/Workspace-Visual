@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="0px" height="0px" viewBox="0 0 0 0" style="overflow:visible;" xml:space="preserve">
+<variableSets  xmlns="&ns_vars;">
+	<variableSet  locked="none" varSetName="binding1">
+		<variables>
+			<variable  category="&ns_vars;" trait="visibility" varName="Variabile2"></variable>
+			<variable  category="&ns_vars;" trait="visibility" varName="Variabile3"></variable>
+		</variables>
+		<v:sampleDataSets  xmlns="&ns_custom;" xmlns:v="&ns_vars;">
+			<v:sampleDataSet  dataSetName="Set di dati 1">
+				<Variabile2>true</Variabile2>
+				<Variabile3>true</Variabile3>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="Set di dati 2">
+				<Variabile2>true</Variabile2>
+				<Variabile3>true</Variabile3>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="Set di dati 3">
+				<Variabile2>true</Variabile2>
+				<Variabile3>false</Variabile3>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="Set di dati 4">
+				<Variabile2>false</Variabile2>
+				<Variabile3>true</Variabile3>
+			</v:sampleDataSet>
+		</v:sampleDataSets>
+	</variableSet>
+</variableSets>
+</svg>

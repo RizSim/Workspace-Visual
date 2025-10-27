@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="0px" height="0px" viewBox="0 0 0 0" style="overflow:visible;" xml:space="preserve">
+<variableSets  xmlns="&ns_vars;">
+	<variableSet  locked="none" varSetName="binding1">
+		<variables>
+			<variable  trait="textcontent" varName="V1"></variable>
+		</variables>
+		<v:sampleDataSets  xmlns="&ns_custom;" xmlns:v="&ns_vars;">
+			<v:sampleDataSet  dataSetName="SD1">
+				<V1>
+					<p>1</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD2">
+				<V1>
+					<p>2</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD3">
+				<V1>
+					<p>3</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD4">
+				<V1>
+					<p>4</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD5">
+				<V1>
+					<p>5</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD6">
+				<V1>
+					<p>6</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD7">
+				<V1>
+					<p>7</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD8">
+				<V1>
+					<p>8</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD9">
+				<V1>
+					<p>9</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD10">
+				<V1>
+					<p>10</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD11">
+				<V1>
+					<p>11</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD12">
+				<V1>
+					<p>12</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD13">
+				<V1>
+					<p>13</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD14">
+				<V1>
+					<p>14</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD15">
+				<V1>
+					<p>15</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD16">
+				<V1>
+					<p>16</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD17">
+				<V1>
+					<p>17</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD18">
+				<V1>
+					<p>18</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD19">
+				<V1>
+					<p>19</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD20">
+				<V1>
+					<p>20</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD21">
+				<V1>
+					<p>21</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD22">
+				<V1>
+					<p>22</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD23">
+				<V1>
+					<p>23</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD24">
+				<V1>
+					<p>24</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD25">
+				<V1>
+					<p>25</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD26">
+				<V1>
+					<p>26</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD27">
+				<V1>
+					<p>27</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD28">
+				<V1>
+					<p>28</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD29">
+				<V1>
+					<p>29</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD30">
+				<V1>
+					<p>30</p>
+				</V1>
+			</v:sampleDataSet>
+			<v:sampleDataSet  dataSetName="SD31">
+				<V1>
+					<p>31</p>
+				</V1>
+			</v:sampleDataSet>
+		</v:sampleDataSets>
+	</variableSet>
+</variableSets>
+</svg>

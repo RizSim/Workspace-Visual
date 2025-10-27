@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<canvas id="myCanvas" width="400" height="400"
+style="border:5px solid #d3d3d3;">
+Your browser does not support the HTML5 canvas tag.</canvas>
+
+<script>
+var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+
+// Create gradient
+var grd = ctx.createLinearGradient(0,0,400,0);
+grd.addColorStop(0,"red");
+grd.addColorStop(1,"white");
+
+// Fill with gradient
+ctx.fillStyle = grd;
+ctx.fillRect(10,10,200,200);
+	
+ctx.shadowOffsetX=20;
+ctx.shadowOffsetY=20;
+ctx.shadowColor='grey'
+ctx.shadowBlur=10
+ctx.stroke()
+	for (let i = 0; i < 12; i++) {
+  for (let j = 0; j < 12; j++) {
+    ctx.strokeStyle = `rgb(
+        ${Math.floor(255 - 42.5 * i)},
+        0,
+        ${Math.floor(255 - 42.5 * j)})`;
+    ctx.beginPath();
+    ctx.arc(12.5 + j * 30, 12.5 + i * 30, 14, 0, Math.PI * 2, true);
+    ctx.stroke();
+  }
+}
+	
+</script>
+
+</body>
+</html>

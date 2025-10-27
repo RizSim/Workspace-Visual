@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<instance xmlns:itcc-ci="http://www.infocamere.it/itnn/fr/itcc/ci/2018-11-04" xmlns:itcc-ci-ese="http://www.infocamere.it/itnn/fr/itcc/ci/ese/2018-11-04" schemaRef="itcc-ci-ese-2018-11-04.xsd">  
+  <context id="c0"> 
+    <entity scheme="http://www.infocamere.it">02164290062</entity>  
+    <period> 
+      <startDate>2019-04-01</startDate>  
+      <endDate>2020-03-31</endDate> 
+    </period>  
+    <scenario>itcc-ci:depositato</scenario>  
+    <unit>EUR</unit> 
+  </context>  
+  <context id="c1" id_prev="c0"> 
+    <entity scheme="http://www.infocamere.it">02164290062</entity>  
+    <period> 
+      <startDate>2020-04-01</startDate>  
+      <endDate>2021-03-31</endDate> 
+    </period>  
+    <scenario>itcc-ci:depositato</scenario>  
+    <unit>EUR</unit> 
+  </context>
+  <fact report_code="T0000" cell_code="T0000.D01.1.001.002.002" context_code="c1">LABORATORIO DAMIANI S.R.L.</fact>
+  <fact report_code="T0000" cell_code="T0000.D01.1.001.002.003" context_code="c1">VIA DEL LAVORO 6 VALENZA AL</fact>
+  <fact report_code="T0000" cell_code="T0000.D01.1.001.002.004" context_code="c1">850000</fact>
+  <fact report_code="T0000" cell_code="T0000.D01.1.001.002.005" context_code="c1">true</fact>
+  <fact report_code="T0000" cell_code="T0000.D01.1.001.002.006" context_code="c1">AL</fact>
+  <fact report_code="T0000" cell_code="T0000.D01.1.001.002.007" context_code="c1">02164290062</fact>
+  <fact report_code="T0000" cell_code="T0000.D01.1.001.002.008" context_code="c1">02164290062</fact>
+  <fact report_code="T0000" cell_code="T0000.D01.1.001.002.009" context_code="c1">232050</fact>
+  <fact report_code="T0000" cell_code="T0000.D01.1.001.002.010" context_code="c1">SOCIETA' A RESPONSABILITA' LIMITATA</fact>
+  <fact report_code="T0000" cell_code="T0000.D01.1.001.002.011" context_code="c1">321210</fact>
+  <fact report_code="T0000" cell_code="T0000.D01.1.001.002.012" context_code="c1">false</fact>
+  <fact report_code="T0000" cell_code="T0000.D01.1.001.002.013" context_code="c1">false</fact>
+  <fact report_code="T0000" cell_code="T0000.D01.1.001.002.014" context_code="c1">true</fact>
+  <fact report_code="T0000" cell_code="T0000.D01.1.001.002.015" context_code="c1">CASA DAMIANI SPA</fact>
+  <fact report_code="T0000" cell_code="T0000.D01.1.001.002.016" context_code="c1">true</fact>
+  <fact report_code="T0000" cell_code="T0000.D01.1.001.002.017" context_code="c1">CASA DAMIANI SPA</fact>
+  <fact report_code="T0000" cell_code="T0000.D01.1.001.002.018" context_code="c1">Italia</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.002.004.000.000" context_code="c1">3449</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.002.009.000.000" context_code="c1">3449</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.003.002.000.000" context_code="c1">1759001</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.003.003.000.000" context_code="c1">68347</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.003.004.000.000" context_code="c1">85906</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.003.005.000.000" context_code="c1">14012</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.003.007.000.000" context_code="c1">1927266</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.004.002.006.000" context_code="c1">5</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.004.002.007.000" context_code="c1">5</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.004.006.000.000" context_code="c1">5</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.005.000.000.000" context_code="c1">1930720</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.002.002.000.000" context_code="c1">1295869</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.002.003.000.000" context_code="c1">2633132</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.002.005.000.000" context_code="c1">350336</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.002.006.000.000" context_code="c1">13219</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.002.007.000.000" context_code="c1">4292556</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.002.002.000" context_code="c1">54878</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.002.004.000" context_code="c1">54878</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.005.002.000" context_code="c1">14254356</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.005.004.000" context_code="c1">14254356</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.007.002.000" context_code="c1">34969</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.007.004.000" context_code="c1">34969</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.008.000.000" context_code="c1">5860</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.009.002.000" context_code="c1">11196</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.009.004.000" context_code="c1">11196</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.010.000.000" context_code="c1">14361258</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.006.002.000.000" context_code="c1">343632</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.006.004.000.000" context_code="c1">1700</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.006.005.000.000" context_code="c1">345332</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.007.000.000.000" context_code="c1">18999146</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.005.000.000.000.000" context_code="c1">59334</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.006.000.000.000.000" context_code="c1">20989201</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.002.002.000.000.000" context_code="c1">850000</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.002.005.000.000.000" context_code="c1">170000</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.002.007.002.000.000" context_code="c1">4025007</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.002.007.011.000.000" context_code="c1">154606</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.002.007.015.000.000" context_code="c1">4179613</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.002.010.000.000.000" context_code="c1">277175</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.002.013.000.000.000" context_code="c1">5476788</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.004.000.000.000.000" context_code="c1">631049</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.005.002.000.000" context_code="c1">531765</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.005.003.000.000" context_code="c1">4357389</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.005.004.000.000" context_code="c1">4889154</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.007.002.000.000" context_code="c1">180000</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.007.004.000.000" context_code="c1">180000</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.008.002.000.000" context_code="c1">2304181</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.008.004.000.000" context_code="c1">2304181</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.012.002.000.000" context_code="c1">5793874</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.012.004.000.000" context_code="c1">5793874</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.013.002.000.000" context_code="c1">106986</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.013.004.000.000" context_code="c1">106986</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.014.002.000.000" context_code="c1">93694</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.014.004.000.000" context_code="c1">93694</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.015.002.000.000" context_code="c1">393421</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.015.004.000.000" context_code="c1">393421</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.016.002.000.000" context_code="c1">387280</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.016.003.000.000" context_code="c1">383684</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.016.004.000.000" context_code="c1">770964</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.017.000.000.000" context_code="c1">14532274</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.006.000.000.000.000" context_code="c1">349090</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.007.000.000.000.000" context_code="c1">20989201</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.002.002.000.000" context_code="c0">0</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.002.004.000.000" context_code="c0">3861</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.002.008.000.000" context_code="c0">0</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.002.009.000.000" context_code="c0">3861</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.003.002.000.000" context_code="c0">1759001</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.003.003.000.000" context_code="c0">88341</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.003.004.000.000" context_code="c0">102285</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.003.005.000.000" context_code="c0">18238</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.003.007.000.000" context_code="c0">1967865</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.004.002.006.000" context_code="c0">5</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.004.002.007.000" context_code="c0">5</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.004.006.000.000" context_code="c0">5</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.003.005.000.000.000" context_code="c0">1971731</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.002.002.000.000" context_code="c0">1345506</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.002.003.000.000" context_code="c0">2273765</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.002.005.000.000" context_code="c0">362601</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.002.006.000.000" context_code="c0">48090</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.002.007.000.000" context_code="c0">4029963</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.002.002.000" context_code="c0">72782</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.002.004.000" context_code="c0">72782</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.005.002.000" context_code="c0">12297136</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.005.004.000" context_code="c0">12297136</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.007.002.000" context_code="c0">57038</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.007.004.000" context_code="c0">57038</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.008.000.000" context_code="c0">4600</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.009.002.000" context_code="c0">15651</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.009.004.000" context_code="c0">15651</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.004.010.000.000" context_code="c0">12447207</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.006.002.000.000" context_code="c0">260750</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.006.004.000.000" context_code="c0">2514</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.006.005.000.000" context_code="c0">263264</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.004.007.000.000.000" context_code="c0">16740434</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.005.000.000.000.000" context_code="c0">32638</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.002.006.000.000.000.000" context_code="c0">18744803</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.002.002.000.000.000" context_code="c0">850000</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.002.005.000.000.000" context_code="c0">170000</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.002.007.002.000.000" context_code="c0">3734907</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.002.007.011.000.000" context_code="c0">154606</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.002.007.015.000.000" context_code="c0">3889513</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.002.010.000.000.000" context_code="c0">290100</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.002.013.000.000.000" context_code="c0">5199613</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.004.000.000.000.000" context_code="c0">631798</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.005.002.000.000" context_code="c0">1277080</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.005.003.000.000" context_code="c0">3132752</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.005.004.000.000" context_code="c0">4409832</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.007.002.000.000" context_code="c0">180000</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.007.004.000.000" context_code="c0">180000</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.008.002.000.000" context_code="c0">2396636</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.008.004.000.000" context_code="c0">2396636</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.012.002.000.000" context_code="c0">4307975</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.012.004.000.000" context_code="c0">4307975</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.013.002.000.000" context_code="c0">33036</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.013.004.000.000" context_code="c0">33036</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.014.002.000.000" context_code="c0">131461</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.014.004.000.000" context_code="c0">131461</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.015.002.000.000" context_code="c0">211318</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.015.004.000.000" context_code="c0">211318</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.016.002.000.000" context_code="c0">548521</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.016.003.000.000" context_code="c0">371584</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.016.004.000.000" context_code="c0">920104</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.005.017.000.000.000" context_code="c0">12590362</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.006.000.000.000.000" context_code="c0">323030</fact>
+  <fact report_code="T0001" cell_code="T0001.D01.1.001.003.007.000.000.000.000" context_code="c0">18744803</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.002.002.000.000" context_code="c1">12517714</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.002.003.000.000" context_code="c1">347101</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.002.006.003.000" context_code="c1">142555</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.002.006.004.000" context_code="c1">142555</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.002.007.000.000" context_code="c1">13007369</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.002.000.000" context_code="c1">7502860</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.003.000.000" context_code="c1">2207219</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.004.000.000" context_code="c1">134929</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.005.002.000" context_code="c1">1695086</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.005.003.000" context_code="c1">522704</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.005.004.000" context_code="c1">153592</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.005.006.000" context_code="c1">28393</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.005.007.000" context_code="c1">2399775</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.006.002.000" context_code="c1">2932</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.006.003.000" context_code="c1">47783</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.006.006.000" context_code="c1">50715</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.007.000.000" context_code="c1">49637</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.010.000.000" context_code="c1">93378</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.011.000.000" context_code="c1">12438514</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.004.000.000.000" context_code="c1">568856</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.005.003.005.006" context_code="c1">64</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.005.003.005.007" context_code="c1">64</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.005.003.006.000" context_code="c1">64</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.005.004.002.000" context_code="c1">94476</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.005.004.006.000" context_code="c1">79902</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.005.004.007.000" context_code="c1">174378</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.005.005.000.000" context_code="c1">3281</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.005.006.000.000" context_code="c1">-171033</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.007.000.000.000" context_code="c1">397822</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.008.002.000.000" context_code="c1">123456</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.008.004.000.000" context_code="c1">-2808</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.008.006.000.000" context_code="c1">120648</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.009.000.000.000" context_code="c1">277175</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.002.002.000.000" context_code="c0">16301140</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.002.003.000.000" context_code="c0">-231594</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.002.006.003.000" context_code="c0">154566</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.002.006.004.000" context_code="c0">154566</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.002.007.000.000" context_code="c0">16224112</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.002.000.000" context_code="c0">9087479</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.003.000.000" context_code="c0">3443960</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.004.000.000" context_code="c0">155668</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.005.002.000" context_code="c0">2198217</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.005.003.000" context_code="c0">677701</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.005.004.000" context_code="c0">156177</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.005.006.000" context_code="c0">23936</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.005.007.000" context_code="c0">3056031</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.006.002.000" context_code="c0">2626</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.006.003.000" context_code="c0">57285</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.006.006.000" context_code="c0">59911</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.007.000.000" context_code="c0">-238318</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.010.000.000" context_code="c0">49523</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.003.011.000.000" context_code="c0">15614254</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.004.000.000.000" context_code="c0">609858</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.005.003.005.006" context_code="c0">4</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.005.003.005.007" context_code="c0">4</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.005.003.006.000" context_code="c0">4</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.005.004.002.000" context_code="c0">96845</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.005.004.006.000" context_code="c0">78470</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.005.004.007.000" context_code="c0">175315</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.005.005.000.000" context_code="c0">-471</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.005.006.000.000" context_code="c0">-175783</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.007.000.000.000" context_code="c0">434075</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.008.002.000.000" context_code="c0">143415</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.008.004.000.000" context_code="c0">560</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.008.006.000.000" context_code="c0">143975</fact>
+  <fact report_code="T0005" cell_code="T0005.D01.1.001.009.000.000.000" context_code="c0">290100</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.002.000" context_code="c1">277175</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.003.000" context_code="c1">120648</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.004.000" context_code="c1">174378</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.007.000" context_code="c1">572201</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.008.002" context_code="c1">165692</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.008.003" context_code="c1">50715</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.008.007" context_code="c1">216407</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.009.000" context_code="c1">788608</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.010.002" context_code="c1">-262593</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.010.003" context_code="c1">-1975125</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.010.004" context_code="c1">1467394</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.010.005" context_code="c1">-26696</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.010.006" context_code="c1">26060</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.010.008" context_code="c1">-770960</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.011.000" context_code="c1">17648</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.012.002" context_code="c1">-174378</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.012.003" context_code="c1">-127144</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.012.006" context_code="c1">53804</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.012.007" context_code="c1">-247718</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.013.000" context_code="c1">-230070</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.003.002.002" context_code="c1">-7184</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.003.008.000" context_code="c1">-7184</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.004.002.002" context_code="c1">-831649</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.004.002.003" context_code="c1">1500000</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.004.002.004" context_code="c1">-189029</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.004.003.005" context_code="c1">-160000</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.004.004.000" context_code="c1">319322</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.005.000.000" context_code="c1">82068</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.007.002.000" context_code="c1">260750</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.007.004.000" context_code="c1">2514</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.007.005.000" context_code="c1">263264</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.008.002.000" context_code="c1">343632</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.008.004.000" context_code="c1">1700</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.008.005.000" context_code="c1">345332</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.002.000" context_code="c0">290100</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.003.000" context_code="c0">143975</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.004.000" context_code="c0">175315</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.007.000" context_code="c0">609390</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.008.002" context_code="c0">178177</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.008.003" context_code="c0">59911</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.008.007" context_code="c0">238088</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.009.000" context_code="c0">847478</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.010.002" context_code="c0">-9432</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.010.003" context_code="c0">197759</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.010.004" context_code="c0">-1852393</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.010.005" context_code="c0">-3264</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.010.006" context_code="c0">323000</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.010.008" context_code="c0">-1344330</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.011.000" context_code="c0">-496852</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.012.002" context_code="c0">-175315</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.012.003" context_code="c0">-143975</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.012.006" context_code="c0">42359</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.012.007" context_code="c0">-276931</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.002.013.000" context_code="c0">-773783</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.003.002.002" context_code="c0">-1875407</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.003.008.000" context_code="c0">-1875407</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.004.002.002" context_code="c0">331756</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.004.002.003" context_code="c0">2630000</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.004.002.004" context_code="c0">-274324</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.004.003.005" context_code="c0">-40000</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.004.004.000" context_code="c0">2647432</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.005.000.000" context_code="c0">-1758</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.007.002.000" context_code="c0">262646</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.007.004.000" context_code="c0">2376</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.007.005.000" context_code="c0">265022</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.008.002.000" context_code="c0">260750</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.008.004.000" context_code="c0">2514</fact>
+  <fact report_code="T0009" cell_code="T0009.D01.1.001.008.005.000" context_code="c0">263264</fact>
+  <fact report_code="T0016" cell_code="T0016.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify"&gt;&lt;br/&gt;Signori Soci, la presente nota integrativa costituisce parte integrante del bilancio al 31/03/2021.&lt;br/&gt;Il bilancio risulta conforme a quanto previsto dagli articoli 2423 e seguenti del codice civile ed ai principi contabili nazionali così come pubblicati dall'Organismo Italiano di Contabilità; esso rappresenta pertanto con chiarezza ed in modo veritiero e corretto la situazione patrimoniale e finanziaria della società ed il risultato economico dell'esercizio.&lt;br/&gt;Il contenuto dello stato patrimoniale e del conto economico è quello previsto dagli articoli 2424 e 2425 del codice civile, mentre il rendiconto finanziario è stato redatto ai sensi dell'art. 2425-ter.La nota integrativa, redatta ai sensi dell'art. 2427 del codice civile, contiene inoltre tutte le informazioni utili a fornire una corretta interpretazione del bilancio.&lt;br/&gt;LABORATORIO DAMIANI S.R.L. è esonerata dall'obbligo di redazione del bilancio consolidato in quanto non ha società controllate.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0018" cell_code="T0018.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Redazione del bilancio&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify"&gt;&lt;br/&gt;Le informazioni contenute nel presente documento sono presentate secondo l'ordine in cui le relative voci sono indicate nello stato patrimoniale e nel conto economico.In riferimento a quanto indicato nella parte introduttiva della presente nota integrativa, si attesta che, ai sensi dell'art. 2423, 3° comma del codice civile, qualora le informazioni richieste da specifiche disposizioni di legge non siano sufficienti a dare una rappresentazione veritiera e corretta della situazione aziendale vengono fornite le informazioni complementari ritenute necessarie allo scopo.Il bilancio d'esercizio, così come la presente nota integrativa, sono stati redatti in unità di euro.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Valutazioni delle voci&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;La valutazione delle voci di bilancio è avvenuta nel rispetto del principio della prudenza, della rilevanza e nella prospettiva di continuazione dell'attività. Ai sensi dell'art. 2423-bis c.1 punto 1-bis C.C., la rilevazione e la presentazione delle voci è effettuata tenendo conto della sostanza dell'operazione o del contratto.&lt;br/&gt;Nella redazione del bilancio d'esercizio gli oneri e i proventi sono stati iscritti secondo il principio di competenza indipendentemente dal momento della loro manifestazione numeraria e sono stati indicati esclusivamente gli utili realizzati alla data di chiusura dell'esercizio.&lt;br/&gt;Si è peraltro tenuto conto dei rischi e delle perdite di competenza dell'esercizio, anche se conosciuti dopo la chiusura di questo.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:center;"&gt;&lt;br/&gt;Struttura e contenuto del prospetto di bilancio&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Lo stato patrimoniale, il conto economico, il rendiconto finanziario e le informazioni di natura contabile contenute nella presente nota integrativa sono conformi alle scritture contabili, da cui sono stati direttamente desunti.&lt;br/&gt;Nell'esposizione dello stato patrimoniale e del conto economico non sono stati effettuati raggruppamenti delle voci precedute da numeri arabi, come invece facoltativamente previsto dall'art. 2423 ter del c.c.&lt;br/&gt;Ai sensi dell'art. 2424 del codice civile si conferma che non esistono elementi dell'attivo o del passivo che ricadano sotto più voci del prospetto di bilancio.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Continuità aziendale&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Sebbene il quadro macro-economico generale permanga caratterizzato da un certo grado di incertezza, la Società ritiene che l’impatto del virus Covid -19, visto anche l’andamento delle situazioni economico-patrimoniali intermedie dei primi mesi del nuovo esercizio, non possa avere un effetto negativo tale da mettere in dubbio la capacità della Società di continuare ad operare in continuità.&lt;br/&gt;Gli amministratori pertanto hanno redatto il bilancio di esercizio nel presupposto della continuità aziendale.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0020" cell_code="T0020.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Non si sono verificati casi eccezionali che abbiano reso necessario il ricorso a deroghe di cui all'art. 2423, commi 4 e 5 del codice civile.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0022" cell_code="T0022.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Non si sono verificati casi eccezionali che abbiano reso necessario il ricorso a deroghe di cui all'art.2423-bis c.2 del codice civile.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0026" cell_code="T0026.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Ai sensi dell'art. 2423 ter del codice civile, si precisa che tutte le voci di bilancio sono risultate comparabili con l'esercizio precedente; non vi è stata pertanto necessità di adattare alcuna voce dell'esercizio precedente.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0028" cell_code="T0028.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;I criteri applicati nella valutazione delle voci di bilancio e nelle rettifiche di valore sono conformi alle disposizioni del codice civile e alle indicazioni contenute nei principi contabili emanati dall'Organismo Italiano di Contabilità. Gli stessi inoltre non sono variati rispetto all'esercizio precedente.&lt;br/&gt;Ai sensi dell'articolo 2427 c. 1 n. 1 del c.c. si illustrano i più significativi criteri di valutazione adottati nel rispetto delle disposizioni contenute all'art.2426 del codice civile, con particolare riferimento a quelle voci di bilancio per le quali il legislatore ammette diversi criteri di valutazione e di rettifica o per le quali non sono previsti specifici criteri.&lt;br/&gt;I valori contabili espressi in valuta sono stati iscritti, previa conversione in euro secondo il tasso di cambio vigente al momento della loro rilevazione, ovvero al tasso di cambio alla data di chiusura dell'esercizio sociale secondo le indicazioni del principio contabile OIC 26.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Immobilizzazioni immateriali&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Le immobilizzazioni immateriali, ricorrendo i presupposti previsti dai principi contabili, sono iscritte nell'attivo di stato patrimoniale al costo di acquisto e/o di produzione e vengono ammortizzate in quote costanti in funzione della loro utilità futura.&lt;br/&gt;Il valore delle immobilizzazioni è esposto al netto dei fondi di ammortamento e delle svalutazioni.&lt;br/&gt;L'ammortamento è stato operato in conformità al seguente piano prestabilito, che si ritiene assicuri una corretta ripartizione del costo sostenuto lungo la vita utile delle immobilizzazioni in oggetto:&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;&lt;div&gt;&lt;br/&gt;&lt;table class="usertable" style="margin:auto"&gt;&lt;thead&gt;&lt;tr&gt;&lt;td&gt;Voci immobilizzazioni immateriali&lt;/td&gt;&lt;td&gt;% Ammortamento&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Costi di impianto e ampliamento&lt;/td&gt;&lt;td class="value"&gt;20 %&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Brevetti e utilizzazione delle opere di ingegno&lt;/td&gt;&lt;td class="value"&gt;20 %&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Altre immobilizzazioni immateriali&lt;/td&gt;&lt;td class="value"&gt;16 % - 25%&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;&lt;div&gt;&lt;br/&gt; &lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Immobilizzazioni materiali&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;I cespiti appartenenti alla categoria delle immobilizzazioni materiali, rilevati alla data in cui avviene il trasferimento dei rischi e dei benefici connessi al bene acquisito, sono iscritti in bilancio al costo di acquisto, aumentato degli eventuali oneri accessori sostenuti fino al momento in cui i beni sono pronti all'uso e comunque nel limite del loro valore recuperabile.&lt;br/&gt;I criteri di ammortamento delle immobilizzazioni materiali non sono variati rispetto a quelli applicati nell' esercizio precedente.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Il criterio di ammortamento delle immobilizzazioni immateriali è stato applicato con sistematicità ed in ogni esercizio, in relazione alla residua possibilità di utilizzazione economica di ogni singolo bene o spesa.&lt;br/&gt;Ai sensi e per gli effetti dell'art.10 della legge 19 marzo 1983, n. 72, e così come anche richiamato dalle successive leggi di rivalutazione monetaria, si precisa che per i beni immateriali tuttora esistenti in patrimonio non è stata mai eseguita alcuna rivalutazione monetaria.&lt;br/&gt;Si evidenzia che su tali oneri immobilizzati non è stato necessario operare svalutazioni ex art. 2426 comma 1 n. 3 del codice civile in quanto, come previsto dal principio contabile OIC 9, non sono stati riscontrati indicatori di potenziali perdite durevoli di valore delle immobilizzazioni immateriali.&lt;br/&gt;I beni immateriali sono rilevati al costo di acquisto comprendente anche i costi accessori e sono ammortizzati entro il limite legale o contrattuale previsto per gli stessi.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;&lt;div &gt;&lt;br/&gt;&lt;table class="usertable" style="margin:auto"&gt;&lt;thead&gt;&lt;tr&gt;&lt;td&gt;Voci immobilizzazioni immateriali&lt;/td&gt;&lt;td&gt;% Ammortamento&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Terreni&lt;/td&gt;&lt;td class="value"&gt;0 %&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Fabbricati&lt;/td&gt;&lt;td class="value"&gt;3%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Impianti sicurezza sedi&lt;/td&gt;&lt;td class="value"&gt;20 % - 25%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Macchinari&lt;/td&gt;&lt;td class="value"&gt;10 % - 12,5%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Impianti generici&lt;/td&gt;&lt;td class="value"&gt;10 % - 12,5%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Attrezzatura varia e minuta&lt;/td&gt;&lt;td class="value"&gt;20 % - 25%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Attrezzatura laboratorio&lt;/td&gt;&lt;td class="value"&gt;20 % - 25%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Mobili e macchine ufficio&lt;/td&gt;&lt;td class="value"&gt;20 % - 35%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Macchine ufficio elettromeccaniche&lt;/td&gt;&lt;td class="value"&gt;20 % - 35%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Beni inferiori 516 euro&lt;/td&gt;&lt;td class="value"&gt;100%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Automezzi&lt;/td&gt;&lt;td class="value"&gt;20%&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Ai sensi e per gli effetti dell'art.10 della legge 19 Marzo 1983, n.72, così come anche richiamato dalle successive leggi di rivalutazione monetaria, si precisa che per i beni materiali tuttora esistenti in patrimonio non è stata mai eseguita alcuna rivalutazione monetaria.&lt;br/&gt;Si evidenzia che non è stato necessario operare svalutazioni ex art. 2426 comma 1 n. 3 del codice civile in quanto, come previsto dal principio contabile OIC 9, non sono stati riscontrati indicatori di potenziali perdite durevoli di valore delle immobilizzazioni materiali.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Rimanenze&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Le rimanenze di beni sono valutate al minore tra il costo di acquisto e/o di produzione e il valore di realizzo desumibile dall'andamento del mercato.&lt;br/&gt;Il costo di acquisto comprende gli eventuali oneri accessori di diretta imputazione.&lt;br/&gt;Il costo di produzione non comprende i costi di indiretta imputazione in quanto questi ultimi non sono risultati imputabili secondo un metodo oggettivo.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Materie prime, sussidiarie e di consumo&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Il costo delle rimanenze di materie prime, sussidiarie e di consumo di natura fungibile è stato calcolato con il metodo del costo medio ponderato in alternativa al costo specifico stante l'impossibilità tecnica o amministrativa di mantenere distinta ogni unità fisica in rimanenza.&lt;br/&gt;Il valore così determinato è stato opportunamente confrontato, come esplicitamente richiesto dall'art. 2426 n. 9 del codice civile, con il valore di realizzazione desumibile dall'andamento del mercato.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Prodotti in corso di lavorazione e semilavorati&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Il costo delle rimanenze di prodotti in corso di lavorazione e semilavorati di natura fungibile è stato calcolato a costi specifici, ovvero attribuendo ai singoli beni i costi specificatamente sostenuti per gli stessi.&lt;br/&gt;Il valore così determinato è stato opportunamente confrontato, come esplicitamente richiesto dall'art. 2426 n. 9 del codice civile, con il valore di realizzazione desumibile dall'andamento del mercato.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Prodotti finiti&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Il costo delle rimanenze dei prodotti finiti e delle merci che presentano caratteristiche eterogenee e non sono tra loro scambiabili è stato calcolato a costi specifici, ovvero attribuendo ai singoli beni i costi specificatamente sostenuti per gli stessi.&lt;br/&gt;Il valore così determinato è stato opportunamente confrontato, come esplicitamente richiesto dall'art. 2426 n. 9 del codice civile, con il valore di realizzazione desumibile dall'andamento del mercato.&lt;br/&gt;Gli acconti ai fornitori per l'acquisto di beni rientranti nelle rimanenze iscritti nella voce C.1.5 sono rilevati inizialmente alla data in cui sorge l'obbligo al pagamento di tali importi o, in assenza di un tale obbligo, al momento in cui sono versati.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Crediti iscritti nell'attivo circolante&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;I crediti non sono stati rilevati in bilancio secondo il criterio del costo ammortizzato, come definito dall'art. 2426 comma 1 n.8 del c.c., in quanto si è verificata l'irrilevanza dell'applicazione di tale metodo ai fini dell'esigenza di dare una rappresentazione veritiera e corretta della situazione patrimoniale ed economica societaria.&lt;br/&gt;E' stata quindi mantenuta l'iscrizione secondo il valore presumibile di realizzo, come previsto dall'OIC 15.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Disponibilità liquide&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Le disponibilità liquide sono valutate al valor nominale.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Ratei e risconti attivi&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;I ratei e risconti sono stati calcolati sulla base del principio della competenza, mediante la ripartizione dei ricavi e/o costi comuni a più esercizi.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Patrimonio netto&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Le voci sono esposte in bilancio al loro valore contabile secondo le indicazioni contenute nel principio contabile OIC 28.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Fondi per rischi e oneri&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;I fondi per rischi e oneri sono stati stanziati a copertura delle passività la cui esistenza è ritenuta certa o probabile, per le quali alla chiusura dell'esercizio non sono determinabili l'ammontare o la data di sopravvenienza.&lt;br/&gt;La costituzione dei fondi è stata effettuata in base ai principi di prudenza e di competenza, osservando le prescrizioni del principio contabile OIC 31. Gli accantonamenti correlati sono rilevati nel conto economico dell'esercizio di competenza, in base al criterio di classificazione "per natura" dei costi.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Trattamento di fine rapporto di lavoro subordinato&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Il TFR è stato calcolato conformemente a quanto previsto dall'art. 2120 del codice civile, tenuto conto delle disposizioni legislative e delle specificità dei contratti e delle categorie professionali, e comprende le quote annue maturate e le rivalutazioni effettuate sulla base dei coefficienti ISTAT.&lt;br/&gt;L'ammontare del fondo è rilevato al netto degli acconti erogati e delle quote utilizzate per le cessazioni del rapporto di lavoro intervenute nel corso dell'esercizio e rappresenta il debito certo nei confronti dei lavoratori dipendenti alla data di chiusura del bilancio.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Debiti&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;I debiti non sono stati rilevati in bilancio secondo il criterio del costo ammortizzato, come definito dall'art. 2426 comma 1 n.8 del c.c., in quanto si è verificata l'irrilevanza dell'applicazione di tale metodo ai fini dell'esigenza di dare una rappresentazione veritiera e corretta della situazione patrimoniale ed economica societaria. E' stata quindi mantenuta l'iscrizione secondo il valore nominale, come previsto dall'OIC 19.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Contabilizzazione dei ricavi e dei costi&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;I ricavi per vendite dei prodotti sono riconosciuti al momento del sostanziale trasferimento della proprietà che normalmente si identifica con la consegna e la spedizione dei beni.&lt;br/&gt;I ricavi di natura finanziaria e quelli derivanti da prestazioni di servizi sono riconosciuti in base alla competenza temporale.&lt;br/&gt;I ricavi e proventi, i costi e gli oneri sono contabilizzati secondo il criterio di competenza economica ed iscritti al netto dei resi, degli sconti, degli abbuoni.&lt;br/&gt;I ricavi e proventi, i costi e gli oneri relativi ad operazioni in valuta sono determinati al cambio corrente alla data nella quale l'operazione compiuta.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Imposte sul reddito&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt; &lt;br/&gt;Le imposte sono accantonate secondo il principio di competenza e rappresentano pertanto:&lt;br/&gt;gli accantonamenti per imposte liquidate per l'esercizio determinate secondo le aliquote le norme vigenti, l’ammontare delle imposte differite pagato anticipatamente in relazione alle differenze temporanee sorte o annullate nell'esercizio.&lt;br/&gt;Le imposte differite sono state calcolate sulla base delle differenze temporanee tassabili applicando le aliquote d'imposta in vigore al momento in cui tali differenze temporanee genereranno delle variazioni in aumento della base imponibile.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt; &lt;br/&gt;L' ammontare delle imposte differite anticipate è soggetto altresì a determinazione nell'ipotesi di variazione delle aliquote di tassazione originariamente considerate.&lt;br/&gt;Con riferimento a quanto disposto dal D.Lgs. del 12 dicembre 2003, n. 344 che ha introdotto il regime fiscale di tassazione di Gruppo denominato “Consolidato fiscale”, Damiani S.p.A. ha rinnovato l’opzione per il triennio 2019-2021 al momento della presentazione della dichiarazione dei redditi 2018 avvenuta in data 19 dicembre 2018.&lt;br/&gt;Il regime di tassazione del Consolidato Nazionale include la controllata Laboratorio Damiani S.r.l. &lt;br/&gt;Per quanto concerne il regime di IVA di Gruppo (per Damiani S.p.A. e Laboratorio Damiani S.r.l.) ai sensi del DPR 633/72 art. 73, comma 3, DM 13/12/1979, è stato presentato l’apposito modello per il rinnovo in data 15 aprile 2019, che rimane valido fino all’esercizio di un’eventuale revoca&lt;br/&gt;Il Consolidato Fiscale Nazionale prevede che sia determinato in capo al società controllante un'unica base imponibile corrispondente alla somma algebrica degli imponibili di ciascuna società rientranti nel consolidato nazionale.&lt;br/&gt;Di conseguenza nel bilancio della società si rilevano:&lt;br/&gt;- imposte di competenza per proventi derivanti dal trasferimento della perdita in sostituzione delle imposte anticipate alla consolidante.&lt;br/&gt;-crediti e debiti nei confronti della consolidante legate al trasferimento delle basi imponibili positive e negative.&lt;br/&gt;Nel regime di consolidamento fiscale rientra l’IRES mentre è esclusa l’IRAP.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0030" cell_code="T0030.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Informazioni relative a finanziamenti pubblici&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;La società, ai sensi dell'articolo 1, commi 125 e seguenti, della legge 124/2017 segnala di aver iscritto al 31/03/2021 i seguenti debiti finanziari:&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Debito finanziario dell’importo di Eur 2.644.117 erogato, limitatamente ad € 1.910.588, da Regione Piemonte.&lt;br/&gt;Tale finanziamento è riferito all’acquisto di un immobile a Valenza ed al supporto al circolante nell’ambito di un progetto di riadattamento e ristrutturazione dell’immobile stesso.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Debito finanziario dell’importo di € 744.117 erogato dal Ministero dello Sviluppo Economico&lt;br/&gt;Tale finanziamento è riferito ad un progetto di innovazione produttiva realizzato negli esercizi precedenti.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Debito finanziario dell’importo di € 1.500.000 erogato dal Banca di Credito P. Azzoaglio S.p.a.&lt;br/&gt;Il 90% di tale debito è garantito dal fondo di garanzia per piccole e medie imprese legge 662/96.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0032" cell_code="T0032.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Di seguito si analizzano nel dettaglio i movimenti delle singole voci di bilancio, secondo il dettato della normativa vigente.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0042" cell_code="T0042.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nel corso dell'esercizio le immobilizzazioni si sono incrementate di € 2.521 e dopo l'iscrizione in conto economico delle quote di ammortamento dell'esercizio, pari ad € 2.933, le immobilizzazioni immateriali ammontano ad € 3.449.&lt;br/&gt;Nella tabella sono esposte le movimentazioni delle immobilizzazioni in oggetto.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.002.002_T0043.D02.1.001" context_code="c1">23148</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.002.004_T0043.D02.1.001" context_code="c1">23148</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.002.006_T0043.D02.1.001" context_code="c1">0</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.004.002_T0043.D02.1.001" context_code="c1">23148</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.004.004_T0043.D02.1.001" context_code="c1">23148</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.004.006_T0043.D02.1.001" context_code="c1">0</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.002.002_T0043.D02.1.003" context_code="c1">66631</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.002.004_T0043.D02.1.003" context_code="c1">62770</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.002.006_T0043.D02.1.003" context_code="c1">3861</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.003.002_T0043.D02.1.003" context_code="c1">2521</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.003.006_T0043.D02.1.003" context_code="c1">2933</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.003.009_T0043.D02.1.003" context_code="c1">-412</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.004.002_T0043.D02.1.003" context_code="c1">69152</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.004.004_T0043.D02.1.003" context_code="c1">65703</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.004.006_T0043.D02.1.003" context_code="c1">3449</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.002.002_T0043.D02.1.007" context_code="c1">212767</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.002.004_T0043.D02.1.007" context_code="c1">212767</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.002.006_T0043.D02.1.007" context_code="c1">0</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.004.002_T0043.D02.1.007" context_code="c1">212767</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.004.004_T0043.D02.1.007" context_code="c1">212767</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.004.006_T0043.D02.1.007" context_code="c1">0</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.002.002_T0043.D02.1.008" context_code="c1">302546</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.002.004_T0043.D02.1.008" context_code="c1">298685</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.002.005_T0043.D02.1.008" context_code="c1">0</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.002.006_T0043.D02.1.008" context_code="c1">3861</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.003.002_T0043.D02.1.008" context_code="c1">2521</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.003.003_T0043.D02.1.008" context_code="c1">0</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.003.004_T0043.D02.1.008" context_code="c1">0</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.003.005_T0043.D02.1.008" context_code="c1">0</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.003.006_T0043.D02.1.008" context_code="c1">2933</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.003.007_T0043.D02.1.008" context_code="c1">0</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.003.008_T0043.D02.1.008" context_code="c1">0</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.003.009_T0043.D02.1.008" context_code="c1">-412</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.004.002_T0043.D02.1.008" context_code="c1">305067</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.004.003_T0043.D02.1.008" context_code="c1">0</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.004.004_T0043.D02.1.008" context_code="c1">301618</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.004.005_T0043.D02.1.008" context_code="c1">0</fact>
+  <fact report_code="T0043" cell_code="T0043.D01.1.004.006_T0043.D02.1.008" context_code="c1">3449</fact>
+  <fact report_code="T0049" cell_code="T0049.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Le immobilizzazioni materiali al lordo dei relativi fondi ammortamento ammontano ad € 3.751.630 ; i fondi di ammortamento risultano essere pari ad € 1.824.364&lt;br/&gt;Nella tabella che segue sono esposte le movimentazioni delle immobilizzazioni in oggetto.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.002.002_T0050.D02.1.001" context_code="c1">1759001</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.002.006_T0050.D02.1.001" context_code="c1">1759001</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.004.002_T0050.D02.1.001" context_code="c1">1759001</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.004.006_T0050.D02.1.001" context_code="c1">1759001</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.002.002_T0050.D02.1.002" context_code="c1">481001</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.002.004_T0050.D02.1.002" context_code="c1">392660</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.002.006_T0050.D02.1.002" context_code="c1">88341</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.003.002_T0050.D02.1.002" context_code="c1">957</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.003.006_T0050.D02.1.002" context_code="c1">20951</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.003.009_T0050.D02.1.002" context_code="c1">-19994</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.004.002_T0050.D02.1.002" context_code="c1">481958</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.004.004_T0050.D02.1.002" context_code="c1">413611</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.004.006_T0050.D02.1.002" context_code="c1">68347</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.002.002_T0050.D02.1.003" context_code="c1">1099341</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.002.004_T0050.D02.1.003" context_code="c1">997056</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.002.006_T0050.D02.1.003" context_code="c1">102285</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.003.002_T0050.D02.1.003" context_code="c1">4907</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.003.006_T0050.D02.1.003" context_code="c1">21286</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.003.009_T0050.D02.1.003" context_code="c1">-16379</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.004.002_T0050.D02.1.003" context_code="c1">1104248</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.004.004_T0050.D02.1.003" context_code="c1">1018342</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.004.006_T0050.D02.1.003" context_code="c1">85906</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.002.002_T0050.D02.1.004" context_code="c1">405103</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.002.004_T0050.D02.1.004" context_code="c1">386865</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.002.006_T0050.D02.1.004" context_code="c1">18238</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.003.002_T0050.D02.1.004" context_code="c1">1320</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.003.006_T0050.D02.1.004" context_code="c1">5545</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.003.009_T0050.D02.1.004" context_code="c1">-4225</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.004.002_T0050.D02.1.004" context_code="c1">406423</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.004.004_T0050.D02.1.004" context_code="c1">392411</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.004.006_T0050.D02.1.004" context_code="c1">14012</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.002.002_T0050.D02.1.006" context_code="c1">3744446</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.002.004_T0050.D02.1.006" context_code="c1">1776581</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.002.006_T0050.D02.1.006" context_code="c1">1967865</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.003.002_T0050.D02.1.006" context_code="c1">7184</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.003.006_T0050.D02.1.006" context_code="c1">47782</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.003.009_T0050.D02.1.006" context_code="c1">-40598</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.004.002_T0050.D02.1.006" context_code="c1">3751630</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.004.004_T0050.D02.1.006" context_code="c1">1824364</fact>
+  <fact report_code="T0050" cell_code="T0050.D01.1.004.006_T0050.D02.1.006" context_code="c1">1927266</fact>
+  <fact report_code="T0051" cell_code="T0051.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nel corso dell'esercizio non sono stati effettuati investimenti significativi.&lt;br/&gt;Si segnala unicamente l'acquisto di un vulcanizzatore del valore di € 4.637&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0054" cell_code="T0054.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;La società alla data di chiusura dell'esercizio non ha in corso alcun contratto di leasing finanziario.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0060" cell_code="T0060.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;La società alla data di chiusura dell'esercizio detiene solo una partecipazione del valore 5 euro al consorzio conai che non ha subito variazioni rispetto all’esercizio precedente.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0061" cell_code="T0061.D01.1.002.005_T0061.D02.1.005" context_code="c1">5</fact>
+  <fact report_code="T0061" cell_code="T0061.D01.1.004.005_T0061.D02.1.005" context_code="c1">5</fact>
+  <fact report_code="T0061" cell_code="T0061.D01.1.002.005_T0061.D02.1.006" context_code="c1">5</fact>
+  <fact report_code="T0061" cell_code="T0061.D01.1.004.005_T0061.D02.1.006" context_code="c1">5</fact>
+  <fact report_code="T0101" cell_code="T0101.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;Nella seguente tabella vengono esposte le informazioni relative alle variazioni delle rimanenze.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0102" cell_code="T0102.D01.1.002_T0102.D02.1.001" context_code="c1">1345506</fact>
+  <fact report_code="T0102" cell_code="T0102.D01.1.003_T0102.D02.1.001" context_code="c1">-49637</fact>
+  <fact report_code="T0102" cell_code="T0102.D01.1.004_T0102.D02.1.001" context_code="c1">1295869</fact>
+  <fact report_code="T0102" cell_code="T0102.D01.1.002_T0102.D02.1.002" context_code="c1">2273765</fact>
+  <fact report_code="T0102" cell_code="T0102.D01.1.003_T0102.D02.1.002" context_code="c1">359366</fact>
+  <fact report_code="T0102" cell_code="T0102.D01.1.004_T0102.D02.1.002" context_code="c1">2633132</fact>
+  <fact report_code="T0102" cell_code="T0102.D01.1.002_T0102.D02.1.004" context_code="c1">362601</fact>
+  <fact report_code="T0102" cell_code="T0102.D01.1.003_T0102.D02.1.004" context_code="c1">-12265</fact>
+  <fact report_code="T0102" cell_code="T0102.D01.1.004_T0102.D02.1.004" context_code="c1">350336</fact>
+  <fact report_code="T0102" cell_code="T0102.D01.1.002_T0102.D02.1.005" context_code="c1">48090</fact>
+  <fact report_code="T0102" cell_code="T0102.D01.1.003_T0102.D02.1.005" context_code="c1">-34871</fact>
+  <fact report_code="T0102" cell_code="T0102.D01.1.004_T0102.D02.1.005" context_code="c1">13219</fact>
+  <fact report_code="T0102" cell_code="T0102.D01.1.002_T0102.D02.1.006" context_code="c1">4029963</fact>
+  <fact report_code="T0102" cell_code="T0102.D01.1.003_T0102.D02.1.006" context_code="c1">262593</fact>
+  <fact report_code="T0102" cell_code="T0102.D01.1.004_T0102.D02.1.006" context_code="c1">4292556</fact>
+  <fact report_code="T0103" cell_code="T0103.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;Il valore del magazzino è presentato al netto del fondo svalutazione magazzino (€ 230.000) appostato in precedenti esercizi al fine di allineare il valore dei prodotti finiti e delle materie prime e sussidiarie al presumibile valore di realizzo.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0111" cell_code="T0111.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nella seguente tabella vengono esposte le informazioni relative alle variazioni dei crediti iscritti nell'attivo circolante nonché,  se significative, le informazioni relative alla scadenza degli stessi.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.002_T0112.D02.1.001" context_code="c1">72782</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.003_T0112.D02.1.001" context_code="c1">-17904</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.004_T0112.D02.1.001" context_code="c1">54878</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.005_T0112.D02.1.001" context_code="c1">54878</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.002_T0112.D02.1.004" context_code="c1">12297136</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.003_T0112.D02.1.004" context_code="c1">1957220</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.004_T0112.D02.1.004" context_code="c1">14254356</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.005_T0112.D02.1.004" context_code="c1">14254356</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.002_T0112.D02.1.006" context_code="c1">57038</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.003_T0112.D02.1.006" context_code="c1">-22069</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.004_T0112.D02.1.006" context_code="c1">34969</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.005_T0112.D02.1.006" context_code="c1">34969</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.002_T0112.D02.1.007" context_code="c1">4600</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.003_T0112.D02.1.007" context_code="c1">1260</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.004_T0112.D02.1.007" context_code="c1">5860</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.002_T0112.D02.1.008" context_code="c1">15651</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.003_T0112.D02.1.008" context_code="c1">-4456</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.004_T0112.D02.1.008" context_code="c1">11196</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.005_T0112.D02.1.008" context_code="c1">11196</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.002_T0112.D02.1.009" context_code="c1">12447207</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.003_T0112.D02.1.009" context_code="c1">1914051</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.004_T0112.D02.1.009" context_code="c1">14361258</fact>
+  <fact report_code="T0112" cell_code="T0112.D01.1.005_T0112.D02.1.009" context_code="c1">14355398</fact>
+  <fact report_code="T0113" cell_code="T0113.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;La voce crediti verso imprese controllanti si riferisce a:&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&lt;br/&gt;&lt;ul style="margin-top:1.0pt;margin-right:1.0cm;margin-bottom:1.0pt;margin-left:1cm;text-align:left;"&gt;&lt;br/&gt;&lt;li&gt;&lt;br/&gt;Crediti commerciali € 13.695.161&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li&gt;&lt;br/&gt;Crediti vs controllante IVA € 379.889&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li&gt;&lt;br/&gt;Crediti vs controllante IRES € 90.081&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li&gt;&lt;br/&gt;Crediti per fatture da emettere € 89.226&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;/ul&gt;&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0115" cell_code="T0115.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nella seguente tabella viene esposta la ripartizione per area geografica dei crediti iscritti nell'attivo circolante.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0116" cell_code="T0116.D01.1.001.002_T0116.D02.1.002.000" context_code="c1">54878</fact>
+  <fact report_code="T0116" cell_code="T0116.D01.1.001.005_T0116.D02.1.002.000" context_code="c1">14254356</fact>
+  <fact report_code="T0116" cell_code="T0116.D01.1.001.007_T0116.D02.1.002.000" context_code="c1">34969</fact>
+  <fact report_code="T0116" cell_code="T0116.D01.1.001.008_T0116.D02.1.002.000" context_code="c1">5860</fact>
+  <fact report_code="T0116" cell_code="T0116.D01.1.001.009_T0116.D02.1.002.000" context_code="c1">11196</fact>
+  <fact report_code="T0116" cell_code="T0116.D01.1.001.010_T0116.D02.1.002.000" context_code="c1">14361258</fact>
+  <tuple code="T0116.D01.1.001.000_N1" context_code="c1">
+    <fact report_code="T0116" cell_code="T0116.D01.1.001.001_T0116.D02.1.001.001" context_code="c1">Italia</fact>
+    <fact report_code="T0116" cell_code="T0116.D01.1.001.002_T0116.D02.1.001.001" context_code="c1">54878</fact>
+    <fact report_code="T0116" cell_code="T0116.D01.1.001.005_T0116.D02.1.001.001" context_code="c1">14254356</fact>
+    <fact report_code="T0116" cell_code="T0116.D01.1.001.007_T0116.D02.1.001.001" context_code="c1">34969</fact>
+    <fact report_code="T0116" cell_code="T0116.D01.1.001.008_T0116.D02.1.001.001" context_code="c1">5860</fact>
+    <fact report_code="T0116" cell_code="T0116.D01.1.001.009_T0116.D02.1.001.001" context_code="c1">11196</fact>
+    <fact report_code="T0116" cell_code="T0116.D01.1.001.010_T0116.D02.1.001.001" context_code="c1">14361258</fact>
+  </tuple>
+  <fact report_code="T0137" cell_code="T0137.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nella seguente tabella vengono esposte le informazioni relative alle variazioni delle disponibilità liquide.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0138" cell_code="T0138.D01.1.002_T0138.D02.1.001" context_code="c1">260750</fact>
+  <fact report_code="T0138" cell_code="T0138.D01.1.003_T0138.D02.1.001" context_code="c1">82882</fact>
+  <fact report_code="T0138" cell_code="T0138.D01.1.004_T0138.D02.1.001" context_code="c1">343632</fact>
+  <fact report_code="T0138" cell_code="T0138.D01.1.002_T0138.D02.1.003" context_code="c1">2514</fact>
+  <fact report_code="T0138" cell_code="T0138.D01.1.003_T0138.D02.1.003" context_code="c1">-814</fact>
+  <fact report_code="T0138" cell_code="T0138.D01.1.004_T0138.D02.1.003" context_code="c1">1700</fact>
+  <fact report_code="T0138" cell_code="T0138.D01.1.002_T0138.D02.1.004" context_code="c1">263264</fact>
+  <fact report_code="T0138" cell_code="T0138.D01.1.003_T0138.D02.1.004" context_code="c1">82068</fact>
+  <fact report_code="T0138" cell_code="T0138.D01.1.004_T0138.D02.1.004" context_code="c1">345332</fact>
+  <fact report_code="T0142" cell_code="T0142.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nel seguente prospetto è illustrata la composizione delle voci di cui in oggetto, in quanto risultanti iscritte in bilancio.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0143" cell_code="T0143.D01.1.002_T0143.D02.1.002" context_code="c1">32638</fact>
+  <fact report_code="T0143" cell_code="T0143.D01.1.003_T0143.D02.1.002" context_code="c1">26696</fact>
+  <fact report_code="T0143" cell_code="T0143.D01.1.004_T0143.D02.1.002" context_code="c1">59334</fact>
+  <fact report_code="T0143" cell_code="T0143.D01.1.002_T0143.D02.1.003" context_code="c1">32638</fact>
+  <fact report_code="T0143" cell_code="T0143.D01.1.003_T0143.D02.1.003" context_code="c1">26696</fact>
+  <fact report_code="T0143" cell_code="T0143.D01.1.004_T0143.D02.1.003" context_code="c1">59334</fact>
+  <fact report_code="T0144" cell_code="T0144.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;La voce è composta da risconti attivi riferiti ad assicurazioni, polizze fidejussorie, spese istruttorie finaziamenti e noleggi di attrezzature informatiche.&lt;br/&gt;Si evidenzia che l'importo di euro € 30.802 relativo al risconto riguarda la quota oltre l'esercizio successivo.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0146" cell_code="T0146.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Tutti gli interessi e gli altri oneri finanziari sono stati interamente spesati nell'esercizio. Ai fini dell'art. 2427, c. 1, n. 8 del codice civile si attesta quindi che non sussistono capitalizzazioni di oneri finanziari.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0275" cell_code="T0275.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Di seguito si analizzano nel dettaglio i movimenti delle singole voci di bilancio, secondo il dettato della normativa vigente.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0279" cell_code="T0279.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Con riferimento all'esercizio in chiusura nelle tabelle seguenti vengono esposte le variazioni delle singole voci del patrimonio netto, nonché il dettaglio delle altre riserve, se presenti in bilancio.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.002.000_T0280.D02.1.001.000" context_code="c1">850000</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.006.000_T0280.D02.1.001.000" context_code="c1">850000</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.002.000_T0280.D02.1.004.000" context_code="c1">170000</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.006.000_T0280.D02.1.004.000" context_code="c1">170000</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.002.000_T0280.D02.1.006.002" context_code="c1">3734907</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.004.002_T0280.D02.1.006.002" context_code="c1">290100</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.006.000_T0280.D02.1.006.002" context_code="c1">4025007</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.002.000_T0280.D02.1.006.011" context_code="c1">154606</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.006.000_T0280.D02.1.006.011" context_code="c1">154606</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.002.000_T0280.D02.1.006.015" context_code="c1">3889513</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.004.002_T0280.D02.1.006.015" context_code="c1">290100</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.006.000_T0280.D02.1.006.015" context_code="c1">4179613</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.002.000_T0280.D02.1.009.000" context_code="c1">290100</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.004.002_T0280.D02.1.009.000" context_code="c1">-290100</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.005.000_T0280.D02.1.009.000" context_code="c1">277175</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.006.000_T0280.D02.1.009.000" context_code="c1">277175</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.002.000_T0280.D02.1.012.000" context_code="c1">5199613</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.005.000_T0280.D02.1.012.000" context_code="c1">277175</fact>
+  <fact report_code="T0280" cell_code="T0280.D01.1.006.000_T0280.D02.1.012.000" context_code="c1">5476788</fact>
+  <fact report_code="T0284" cell_code="T0284.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nei seguenti prospetti sono analiticamente indicate le voci di patrimonio netto, con specificazione della loro origine, possibilità di utilizzazione e distribuibilità, nonché della loro avvenuta utilizzazione nei precedenti tre esercizi.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.002.000_T0285.D02.1.001.000" context_code="c1">850000</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.005.000_T0285.D02.1.001.000" context_code="c1">170000</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.007.002_T0285.D02.1.001.000" context_code="c1">4025007</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.007.011_T0285.D02.1.001.000" context_code="c1">154606</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.007.015_T0285.D02.1.001.000" context_code="c1">4179613</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.009.000_T0285.D02.1.001.000" context_code="c1">277175</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.011.000_T0285.D02.1.001.000" context_code="c1">5476788</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.002.000_T0285.D02.1.002.000" context_code="c1">Capitale</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.005.000_T0285.D02.1.002.000" context_code="c1">Riserva</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.007.002_T0285.D02.1.002.000" context_code="c1">Riserva</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.007.011_T0285.D02.1.002.000" context_code="c1">Avanzo di fusione</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.005.000_T0285.D02.1.003.000" context_code="c1">B</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.007.002_T0285.D02.1.003.000" context_code="c1">A,B,C</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.007.011_T0285.D02.1.003.000" context_code="c1">A,B,C</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.007.015_T0285.D02.1.003.000" context_code="c1">A,B,C</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.009.000_T0285.D02.1.003.000" context_code="c1">A,B,C</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.007.002_T0285.D02.1.004.000" context_code="c1">4025007</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.007.011_T0285.D02.1.004.000" context_code="c1">154606</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.007.015_T0285.D02.1.004.000" context_code="c1">4179613</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.009.000_T0285.D02.1.004.000" context_code="c1">277175</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.011.000_T0285.D02.1.004.000" context_code="c1">4456788</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.007.002_T0285.D02.1.005.003" context_code="c1">450000</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.007.015_T0285.D02.1.005.003" context_code="c1">450000</fact>
+  <fact report_code="T0285" cell_code="T0285.D01.1.011.000_T0285.D02.1.005.003" context_code="c1">450000</fact>
+  <fact report_code="T0298" cell_code="T0298.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nella seguente tabella vengono esposte le informazioni relative alle variazioni del trattamento di fine rapporto di lavoro subordinato.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0299" cell_code="T0299.D01.1.002.000_T0299.D02.1.001" context_code="c1">631798</fact>
+  <fact report_code="T0299" cell_code="T0299.D01.1.003.002_T0299.D02.1.001" context_code="c1">153592</fact>
+  <fact report_code="T0299" cell_code="T0299.D01.1.003.003_T0299.D02.1.001" context_code="c1">149124</fact>
+  <fact report_code="T0299" cell_code="T0299.D01.1.003.004_T0299.D02.1.001" context_code="c1">-5217</fact>
+  <fact report_code="T0299" cell_code="T0299.D01.1.003.005_T0299.D02.1.001" context_code="c1">-749</fact>
+  <fact report_code="T0299" cell_code="T0299.D01.1.004.000_T0299.D02.1.001" context_code="c1">631049</fact>
+  <fact report_code="T0304" cell_code="T0304.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nella seguente tabella vengono esposte le informazioni relative alle variazioni dei debiti e le eventuali informazioni relative alla scadenza degli stessi.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.002_T0305.D02.1.004" context_code="c1">4409832</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.003_T0305.D02.1.004" context_code="c1">479322</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.004_T0305.D02.1.004" context_code="c1">4889154</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.005_T0305.D02.1.004" context_code="c1">531765</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.006_T0305.D02.1.004" context_code="c1">4357389</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.007_T0305.D02.1.004" context_code="c1">1068319</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.002_T0305.D02.1.006" context_code="c1">180000</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.004_T0305.D02.1.006" context_code="c1">180000</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.005_T0305.D02.1.006" context_code="c1">180000</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.002_T0305.D02.1.007" context_code="c1">2396636</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.003_T0305.D02.1.007" context_code="c1">-92455</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.004_T0305.D02.1.007" context_code="c1">2304181</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.005_T0305.D02.1.007" context_code="c1">2304181</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.002_T0305.D02.1.011" context_code="c1">4307975</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.003_T0305.D02.1.011" context_code="c1">1485899</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.004_T0305.D02.1.011" context_code="c1">5793874</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.005_T0305.D02.1.011" context_code="c1">5793874</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.002_T0305.D02.1.012" context_code="c1">33036</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.003_T0305.D02.1.012" context_code="c1">73950</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.004_T0305.D02.1.012" context_code="c1">106986</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.005_T0305.D02.1.012" context_code="c1">106986</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.002_T0305.D02.1.013" context_code="c1">131461</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.003_T0305.D02.1.013" context_code="c1">-37767</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.004_T0305.D02.1.013" context_code="c1">93694</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.005_T0305.D02.1.013" context_code="c1">93694</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.002_T0305.D02.1.014" context_code="c1">211318</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.003_T0305.D02.1.014" context_code="c1">182104</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.004_T0305.D02.1.014" context_code="c1">393421</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.005_T0305.D02.1.014" context_code="c1">393421</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.002_T0305.D02.1.015" context_code="c1">920104</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.003_T0305.D02.1.015" context_code="c1">-149140</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.004_T0305.D02.1.015" context_code="c1">770964</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.005_T0305.D02.1.015" context_code="c1">387280</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.006_T0305.D02.1.015" context_code="c1">383684</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.002_T0305.D02.1.016" context_code="c1">12590362</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.003_T0305.D02.1.016" context_code="c1">1941913</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.004_T0305.D02.1.016" context_code="c1">14532274</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.005_T0305.D02.1.016" context_code="c1">9791201</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.006_T0305.D02.1.016" context_code="c1">4741073</fact>
+  <fact report_code="T0305" cell_code="T0305.D01.1.007_T0305.D02.1.016" context_code="c1">1068319</fact>
+  <fact report_code="T0306" cell_code="T0306.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nella seguente tabella viene presentata la suddivisione della voce "Debiti verso banche".&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;&lt;div&gt;&lt;br/&gt;&lt;table class="usertable"&gt;&lt;thead&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Valore inizio esercizio&lt;/td&gt;&lt;td&gt;Variazione nell'esercizio&lt;/td&gt;&lt;td&gt;Valore di fine esercizio&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Finanziamenti Breve Termine&lt;/td&gt;&lt;td class="value"&gt;831.649&lt;/td&gt;&lt;td class="value"&gt;-831.649&lt;/td&gt;&lt;td class="value"&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Finanziamenti Medio Lungo Termine&lt;/td&gt;&lt;td class="value"&gt;3.578.183&lt;/td&gt;&lt;td class="value"&gt;1.310.971&lt;/td&gt;&lt;td class="value"&gt;4.889.154&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Totale&lt;/td&gt;&lt;td class="value"&gt;4.409.832&lt;/td&gt;&lt;td class="value"&gt;479.322&lt;/td&gt;&lt;td class="value"&gt;4.889.154&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nei seguenti paragrafi si dettaglia la composizione dei debiti a medio lungo termine &lt;br/&gt;&lt;ul style="margin-top:1.0pt;margin-right:1.0cm;margin-bottom:1.0pt;margin-left:1cm;text-align:left;"&gt;&lt;br/&gt;&lt;li&gt;&lt;br/&gt;Finanziamento 744.117: Si tratta del finanziamento agevolato concesso nel mese di luglio 2015 (l’ultima tranche è stata erogata a maggio 2017) dal Ministero dello Sviluppo Economico a Laboratorio Damiani s.r.l., per il programma di ricerca e sviluppo di soluzioni automatiche per la lavorazione dell’oro, realizzato in esercizi precedenti.&lt;br/&gt;Il finanziamento prevede il rimborso in dieci rate annuali a partire da marzo 2019 (scadenza marzo 2028).&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li&gt;&lt;br/&gt;Finanziamento 2.644.117: Si tratta della 1° tranche del finanziamento sottoscritto da Laboratorio Damiani S.r.l. con Mediocredito Italiano S.p.A. in base all’accordo di convenzione con Finpiemonte e con la Regione Piemonte. Il finanziamento di complessivi Euro 6.000 migliaia è finalizzato a sostenere il circolante della società ed il suo programma di investimenti, consistenti nell’acquisto e successiva ristrutturazione di un immobile sito in Valenza (AL) da adattare a fini produttivi, commerciali e logistici.&lt;br/&gt;L’erogazione delle prossime tranche avverrà in base al piano di avanzamento del progetto. Il finanziamento prevede il rimborso in 34 rate trimestrali a partire dal 31 dicembre 2019.&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;li&gt;&lt;br/&gt;Finanziamento 1.500.000:Si tratta del finanziamento sottoscritto da Laboratorio Damiani S.r.l. con Banca di Credito P.Azzoaglio S.p.a. Garantito al 90% dal fondo di garanzia a favore delle piccole e medie imprese - Legge 626/96&lt;br/&gt;Il rimborso del finanziamento sarà effettuato in un'unica soluzione alla scadenza dello stesso, ovvero il 24/11/2025.&lt;br/&gt;La durata del contratto di credito è di 60 mesi, comprensiva del periodo di preammortamento di n. 4 rate annuali costituite di soli interessi.&lt;br/&gt;&lt;/li&gt;&lt;br/&gt;&lt;/ul&gt;&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0309" cell_code="T0309.D01.1.001.005_T0309.D02.1.002.000" context_code="c1">4889154</fact>
+  <fact report_code="T0309" cell_code="T0309.D01.1.001.007_T0309.D02.1.002.000" context_code="c1">180000</fact>
+  <fact report_code="T0309" cell_code="T0309.D01.1.001.008_T0309.D02.1.002.000" context_code="c1">2304181</fact>
+  <fact report_code="T0309" cell_code="T0309.D01.1.001.012_T0309.D02.1.002.000" context_code="c1">5793874</fact>
+  <fact report_code="T0309" cell_code="T0309.D01.1.001.013_T0309.D02.1.002.000" context_code="c1">106986</fact>
+  <fact report_code="T0309" cell_code="T0309.D01.1.001.014_T0309.D02.1.002.000" context_code="c1">93694</fact>
+  <fact report_code="T0309" cell_code="T0309.D01.1.001.015_T0309.D02.1.002.000" context_code="c1">393421</fact>
+  <fact report_code="T0309" cell_code="T0309.D01.1.001.016_T0309.D02.1.002.000" context_code="c1">770964</fact>
+  <fact report_code="T0309" cell_code="T0309.D01.1.001.017_T0309.D02.1.002.000" context_code="c1">14532274</fact>
+  <tuple code="T0309.D01.1.001.000_N1" context_code="c1">
+    <fact report_code="T0309" cell_code="T0309.D01.1.001.001_T0309.D02.1.001.001" context_code="c1">Italia</fact>
+    <fact report_code="T0309" cell_code="T0309.D01.1.001.005_T0309.D02.1.001.001" context_code="c1">4889154</fact>
+    <fact report_code="T0309" cell_code="T0309.D01.1.001.008_T0309.D02.1.001.001" context_code="c1">2247835</fact>
+    <fact report_code="T0309" cell_code="T0309.D01.1.001.012_T0309.D02.1.001.001" context_code="c1">5793874</fact>
+    <fact report_code="T0309" cell_code="T0309.D01.1.001.014_T0309.D02.1.001.001" context_code="c1">93694</fact>
+    <fact report_code="T0309" cell_code="T0309.D01.1.001.015_T0309.D02.1.001.001" context_code="c1">393421</fact>
+    <fact report_code="T0309" cell_code="T0309.D01.1.001.016_T0309.D02.1.001.001" context_code="c1">770964</fact>
+    <fact report_code="T0309" cell_code="T0309.D01.1.001.017_T0309.D02.1.001.001" context_code="c1">14188942</fact>
+  </tuple>
+  <tuple code="T0309.D01.1.001.000_N2" context_code="c1">
+    <fact report_code="T0309" cell_code="T0309.D01.1.001.001_T0309.D02.1.001.001" context_code="c1">Intra CEE</fact>
+    <fact report_code="T0309" cell_code="T0309.D01.1.001.008_T0309.D02.1.001.001" context_code="c1">18521</fact>
+    <fact report_code="T0309" cell_code="T0309.D01.1.001.017_T0309.D02.1.001.001" context_code="c1">18521</fact>
+  </tuple>
+  <tuple code="T0309.D01.1.001.000_N3" context_code="c1">
+    <fact report_code="T0309" cell_code="T0309.D01.1.001.001_T0309.D02.1.001.001" context_code="c1">Extra CEE</fact>
+    <fact report_code="T0309" cell_code="T0309.D01.1.001.007_T0309.D02.1.001.001" context_code="c1">180000</fact>
+    <fact report_code="T0309" cell_code="T0309.D01.1.001.008_T0309.D02.1.001.001" context_code="c1">37825</fact>
+    <fact report_code="T0309" cell_code="T0309.D01.1.001.013_T0309.D02.1.001.001" context_code="c1">106986</fact>
+    <fact report_code="T0309" cell_code="T0309.D01.1.001.017_T0309.D02.1.001.001" context_code="c1">324811</fact>
+  </tuple>
+  <fact report_code="T0312" cell_code="T0312.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Ai sensi e per gli effetti dell'art. 2427, c. 1 n. 6 del codice civile, si attesta che esistono debiti finanziari assistiti da garanzie reali.&lt;br/&gt;In particolare è stata iscritta ipoteca sull’immobile acquisito nel corso dell'esercizio chiuso il 31 marzo 2020 a garanzia del finanziamento concesso per l’acquisto e la successiva ristrutturazione dell’immobile stesso.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.002.005_T0313.D02.1.004" context_code="c1">2644117</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.003.000_T0313.D02.1.004" context_code="c1">2245037</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.004.000_T0313.D02.1.004" context_code="c1">4889154</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.003.000_T0313.D02.1.006" context_code="c1">180000</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.004.000_T0313.D02.1.006" context_code="c1">180000</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.003.000_T0313.D02.1.007" context_code="c1">2304181</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.004.000_T0313.D02.1.007" context_code="c1">2304181</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.003.000_T0313.D02.1.011" context_code="c1">5793874</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.004.000_T0313.D02.1.011" context_code="c1">5793874</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.003.000_T0313.D02.1.012" context_code="c1">106986</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.004.000_T0313.D02.1.012" context_code="c1">106986</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.003.000_T0313.D02.1.013" context_code="c1">93694</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.004.000_T0313.D02.1.013" context_code="c1">93694</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.003.000_T0313.D02.1.014" context_code="c1">393421</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.004.000_T0313.D02.1.014" context_code="c1">393421</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.003.000_T0313.D02.1.015" context_code="c1">770964</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.004.000_T0313.D02.1.015" context_code="c1">770964</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.002.005_T0313.D02.1.016" context_code="c1">2644117</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.003.000_T0313.D02.1.016" context_code="c1">11888157</fact>
+  <fact report_code="T0313" cell_code="T0313.D01.1.004.000_T0313.D02.1.016" context_code="c1">14532274</fact>
+  <fact report_code="T0320" cell_code="T0320.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;La società ha ricevuto finanziamenti dalla Damiani Spa ora rinnovati per un importo pari a € 3.030.001 con scadenza 31 marzo 2021 ora prorogati al 30 settembre 2021&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0326" cell_code="T0326.D01.1.003_T0326.D02.1.001" context_code="c1">33781</fact>
+  <fact report_code="T0326" cell_code="T0326.D01.1.004_T0326.D02.1.001" context_code="c1">33781</fact>
+  <fact report_code="T0326" cell_code="T0326.D01.1.002_T0326.D02.1.002" context_code="c1">323030</fact>
+  <fact report_code="T0326" cell_code="T0326.D01.1.003_T0326.D02.1.002" context_code="c1">-7721</fact>
+  <fact report_code="T0326" cell_code="T0326.D01.1.004_T0326.D02.1.002" context_code="c1">315309</fact>
+  <fact report_code="T0326" cell_code="T0326.D01.1.002_T0326.D02.1.003" context_code="c1">323030</fact>
+  <fact report_code="T0326" cell_code="T0326.D01.1.003_T0326.D02.1.003" context_code="c1">26060</fact>
+  <fact report_code="T0326" cell_code="T0326.D01.1.004_T0326.D02.1.003" context_code="c1">349090</fact>
+  <fact report_code="T0327" cell_code="T0327.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;La voce comprende il rinvio della competenza ad esercizi successivi di rimborsi ottenuti come risarcimento di danni all'immobile acquistato&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0386" cell_code="T0386.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Il conto economico evidenzia il risultato economico dell'esercizio.&lt;br/&gt;Esso fornisce una rappresentazione delle operazioni di gestione, mediante una sintesi dei componenti positivi e negativi di reddito che hanno contribuito a determinare il risultato economico. I componenti positivi e negativi di reddito, iscritti in bilancio secondo quanto previsto dall'articolo 2425-bis del codice civile, sono distinti secondo l'appartenenza alle varie gestioni: caratteristica, accessoria e finanziaria.&lt;br/&gt;L'attività caratteristica identifica i componenti di reddito generati da operazioni che si manifestano in via continuativa e nel settore rilevante per lo svolgimento della gestione, che identificano e qualificano la parte peculiare e distintiva dell'attività economica svolta dalla società, per la quale la stessa è finalizzata.&lt;br/&gt;L'attività finanziaria è costituita da operazioni che generano proventi e oneri di natura finanziaria.&lt;br/&gt;In via residuale, l'attività accessoria è costituita dalle operazioni che generano componenti di reddito che fanno parte dell'attività ordinaria ma non rientrano nell'attività caratteristica e finanziaria.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0388" cell_code="T0388.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;I ricavi sono iscritti in bilancio per competenza, al netto dei resi, abbuoni, sconti e premi, nonche delle imposte direttamente connesse agli stessi.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0390" cell_code="T0390.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nella seguente tabella è illustrata la ripartizione dei ricavi delle vendite e delle prestazioni secondo le categorie di attività.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0391" cell_code="T0391.D01.1.001.002_T0391.D02.1.002.000" context_code="c1">12517714</fact>
+  <tuple code="T0391.D01.1.001.000_N1" context_code="c1">
+    <fact report_code="T0391" cell_code="T0391.D01.1.001.001_T0391.D02.1.001.001" context_code="c1">Ricavi delle vendite</fact>
+    <fact report_code="T0391" cell_code="T0391.D01.1.001.002_T0391.D02.1.001.001" context_code="c1">11692352</fact>
+  </tuple>
+  <tuple code="T0391.D01.1.001.000_N2" context_code="c1">
+    <fact report_code="T0391" cell_code="T0391.D01.1.001.001_T0391.D02.1.001.001" context_code="c1">Ricavi delle prestazioni</fact>
+    <fact report_code="T0391" cell_code="T0391.D01.1.001.002_T0391.D02.1.001.001" context_code="c1">825362</fact>
+  </tuple>
+  <fact report_code="T0394" cell_code="T0394.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nella seguente tabella è illustrata la ripartizione dei ricavi delle vendite e delle prestazioni secondo le aree geografiche.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0395" cell_code="T0395.D01.1.001.002_T0395.D02.1.002.000" context_code="c1">12517714</fact>
+  <tuple code="T0395.D01.1.001.000_N1" context_code="c1">
+    <fact report_code="T0395" cell_code="T0395.D01.1.001.001_T0395.D02.1.001.001" context_code="c1">Italia</fact>
+    <fact report_code="T0395" cell_code="T0395.D01.1.001.002_T0395.D02.1.001.001" context_code="c1">12517714</fact>
+  </tuple>
+  <fact report_code="T0399" cell_code="T0399.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;I costi ed oneri sono imputati per competenza e secondo natura, al netto dei resi, abbuoni, sconti e premi, nel rispetto del principio di correlazione con i ricavi, ed iscritti nelle rispettive voci secondo quanto previsto dal principio contabile OIC 12. Per quanto riguarda gli acquisti di beni, i relativi costi sono iscritti quando si è verificato il passaggio sostanziale e non formale del titolo di proprietà assumendo quale parametro di riferimento, per il passaggio sostanziale, il trasferimento dei rischi e benefici. Nel caso di acquisto di servizi, i relativi costi sono iscritti quando il servizio è stato ricevuto, ovvero quando la prestazione si è conclusa, mentre, in presenza di prestazioni di servizi continuative, i relativi costi sono iscritti per la quota maturata.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nel seguente prospetto il dettaglio del totale dei costi di produzione&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;&lt;div&gt;&lt;br/&gt;&lt;table class="usertable"&gt;&lt;thead&gt;&lt;tr&gt;&lt;td&gt;Descrizione&lt;/td&gt;&lt;td&gt;31/03/2021&lt;/td&gt;&lt;td&gt;31/03/2020&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Materie prime, sussidiarie, di consumo e di merci&lt;/td&gt;&lt;td class="value"&gt;7.502.860&lt;/td&gt;&lt;td class="value"&gt;9.087.479&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Servizi&lt;/td&gt;&lt;td class="value"&gt;2.207.219&lt;/td&gt;&lt;td class="value"&gt;3.443.960&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Godimento beni di terzi&lt;/td&gt;&lt;td class="value"&gt;134.929&lt;/td&gt;&lt;td class="value"&gt;155.668&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Costi del personale&lt;/td&gt;&lt;td class="value"&gt;2.399.775&lt;/td&gt;&lt;td class="value"&gt;3.056.031&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Ammortamenti e svalutazioni&lt;/td&gt;&lt;td class="value"&gt;50.715&lt;/td&gt;&lt;td class="value"&gt;59.911&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Variazioni delle rimanenze di materie prime, sussidiarie, di consumo e merci&lt;/td&gt;&lt;td class="value"&gt;49.637&lt;/td&gt;&lt;td class="value"&gt;(238.318)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Oneri diversi di gestione&lt;/td&gt;&lt;td class="value"&gt;93.378&lt;/td&gt;&lt;td class="value"&gt;49.523&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Totale&lt;/td&gt;&lt;td class="value"&gt;12.438.514&lt;/td&gt;&lt;td class="value"&gt;15.614.254&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nel seguente prospetto il dettaglio dei costi per servizi&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;table class="usertable"&gt;&lt;thead&gt;&lt;tr&gt;&lt;td&gt;Descrizione&lt;/td&gt;&lt;td&gt;31/03/2021&lt;/td&gt;&lt;td&gt;31/03/2020&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Lavorazioni esterne&lt;/td&gt;&lt;td class="value"&gt;1.614.653&lt;/td&gt;&lt;td class="value"&gt;2.487.115&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Consulenze, collaborazioni e prestazioni&lt;/td&gt;&lt;td class="value"&gt;65.680&lt;/td&gt;&lt;td class="value"&gt;323.430&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Telefoniche, postali ed altre utenze&lt;/td&gt;&lt;td class="value"&gt;73.587&lt;/td&gt;&lt;td class="value"&gt;59.829&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Trasporti &lt;/td&gt;&lt;td class="value"&gt;3.813&lt;/td&gt;&lt;td class="value"&gt;9.256&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Manutenzioni&lt;/td&gt;&lt;td class="value"&gt;45.232&lt;/td&gt;&lt;td class="value"&gt;56.241&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Assicurazioni&lt;/td&gt;&lt;td class="value"&gt;30.918&lt;/td&gt;&lt;td class="value"&gt;26.551&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Compensi amministratori&lt;/td&gt;&lt;td class="value"&gt;241.724&lt;/td&gt;&lt;td class="value"&gt;315.295&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Compensi collegio sindacale e revisione&lt;/td&gt;&lt;td class="value"&gt;17.733&lt;/td&gt;&lt;td class="value"&gt;18.747&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Altre&lt;/td&gt;&lt;td class="value"&gt;113.879&lt;/td&gt;&lt;td class="value"&gt;147.495&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Totale&lt;/td&gt;&lt;td class="value"&gt;2.207.219&lt;/td&gt;&lt;td class="value"&gt;3.443.960&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0401" cell_code="T0401.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;I proventi e gli oneri finanziari sono iscritti per competenza in relazione alla quota maturata nell'esercizio.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0403" cell_code="T0403.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Non sussistono proventi da partecipazioni di cui all'art. 2425, n. 15 del codice civile.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0407" cell_code="T0407.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nel seguente prospetto si dà evidenza degli interessi e degli altri oneri finanziari di cui all'art. 2425, n. 17 del codice civile, con specifica suddivisione tra quelli relativi a prestiti obbligazionari, ai debiti verso banche ed a altre fattispecie.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0408" cell_code="T0408.D01.1.002_T0408.D02.1.002" context_code="c1">79902</fact>
+  <fact report_code="T0408" cell_code="T0408.D01.1.002_T0408.D02.1.003" context_code="c1">94476</fact>
+  <fact report_code="T0408" cell_code="T0408.D01.1.002_T0408.D02.1.004" context_code="c1">174378</fact>
+  <fact report_code="T0414" cell_code="T0414.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nel corso del presente esercizio non sono stati rilevati ricavi o altri componenti positivi derivanti da eventi di entità o incidenza eccezionali.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0421" cell_code="T0421.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;La società ha provveduto allo stanziamento delle imposte dell'esercizio sulla base dell'applicazione delle norme tributarie vigenti. Le imposte correnti si riferiscono alle imposte di competenza dell'esercizio così come risultanti dalle dichiarazioni fiscali; le imposte relative ad esercizi precedenti includono le imposte dirette di esercizi precedenti, comprensive di interessi e sanzioni e sono inoltre riferite alla differenza positiva (o negativa) tra l'ammontare dovuto a seguito della definizione di un contenzioso o di un accertamento rispetto al valore del fondo accantonato in esercizi precedenti. Le imposte differite e le imposte anticipate, infine, riguardano componenti di reddito positivi o negativi rispettivamente soggetti ad imposizione o a deduzione in esercizi diversi rispetto a quelli di contabilizzazione civilistica.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0422" cell_code="T0422.D01.1.002.002_T0422.D02.1.001" context_code="c1">16167</fact>
+  <fact report_code="T0422" cell_code="T0422.D01.1.002.003_T0422.D02.1.001" context_code="c1">24416</fact>
+  <fact report_code="T0422" cell_code="T0422.D01.1.003.002_T0422.D02.1.001" context_code="c1">4600</fact>
+  <fact report_code="T0422" cell_code="T0422.D01.1.003.003_T0422.D02.1.001" context_code="c1">1260</fact>
+  <fact report_code="T0422" cell_code="T0422.D01.1.003.004_T0422.D02.1.001" context_code="c1">5860</fact>
+  <tuple code="T0424.D01.1.001.000_N1" context_code="c1">
+    <fact report_code="T0424" cell_code="T0424.D01.1.001.001_T0424.D02.1.001.001" context_code="c1">Imposte anticipate su compensi amministratori non corrisposti</fact>
+    <fact report_code="T0424" cell_code="T0424.D01.1.001.002_T0424.D02.1.001.001" context_code="c1">19167</fact>
+    <fact report_code="T0424" cell_code="T0424.D01.1.001.003_T0424.D02.1.001.001" context_code="c1">5249</fact>
+    <fact report_code="T0424" cell_code="T0424.D01.1.001.004_T0424.D02.1.001.001" context_code="c1">24416</fact>
+    <fact report_code="T0424" cell_code="T0424.D01.1.001.005_T0424.D02.1.001.001" context_code="c1">0.24</fact>
+    <fact report_code="T0424" cell_code="T0424.D01.1.001.006_T0424.D02.1.001.001" context_code="c1">5860</fact>
+  </tuple>
+  <fact report_code="T0474" cell_code="T0474.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;La società ha predisposto il rendiconto finanziario che rappresenta il documento di sintesi che raccorda le variazioni intervenute nel corso dell'esercizio nel patrimonio aziendale con le variazioni nella situazione finanziaria; esso pone in evidenza i valori relativi alle risorse finanziarie di cui l'impresa ha avuto necessità nel corso dell'esercizio nonché i relativi impieghi.&lt;br/&gt;In merito al metodo utilizzato si specifica che la stessa ha adottato, secondo la previsione dell'OIC 10, il metodo indiretto in base al quale il flusso di liquidità è ricostruito rettificando il risultato di esercizio delle componenti non monetarie.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0476" cell_code="T0476.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Di seguito vengono riportate le altre informazioni richieste dal codice civile.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0478" cell_code="T0478.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nel seguente prospetto è indicato il numero medio dei dipendenti, ripartito per categoria e calcolato considerando la media giornaliera.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0479" cell_code="T0479.D01.1.002_T0479.D02.1.003" context_code="c1">14</fact>
+  <fact report_code="T0479" cell_code="T0479.D01.1.002_T0479.D02.1.004" context_code="c1">68</fact>
+  <fact report_code="T0479" cell_code="T0479.D01.1.002_T0479.D02.1.006" context_code="c1">82</fact>
+  <fact report_code="T0480" cell_code="T0480.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;La variazione del numero di dipendenti evidenziata rispetto all'esercizio precedente può essere illustrata come segue:&lt;br/&gt;Nel corso dell'esercizio 2 dipendenti hanno raggiunto l'età del pensionamento e altri 11 operai si sono dimessi volontariamente.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nel seguente prospetto è indicato il numero dei dipendenti alla chiusura degli esercizi in esame&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;&lt;div&gt;&lt;br/&gt;&lt;table class="usertable"&gt;&lt;thead&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Valore inizio esercizio&lt;/td&gt;&lt;td&gt;Variazione nell'esercizio&lt;/td&gt;&lt;td&gt;Valore di fine esercizio&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Impiegati&lt;/td&gt;&lt;td class="value"&gt;15&lt;/td&gt;&lt;td class="value"&gt;-1&lt;/td&gt;&lt;td class="value"&gt;14&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Operai&lt;/td&gt;&lt;td class="value"&gt;77&lt;/td&gt;&lt;td class="value"&gt;-12&lt;/td&gt;&lt;td class="value"&gt;65&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class="abstract"&gt;Totale&lt;/td&gt;&lt;td class="value"&gt;92&lt;/td&gt;&lt;td class="value"&gt;-13&lt;/td&gt;&lt;td class="value"&gt;79&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0482" cell_code="T0482.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nel seguente prospetto sono esposte le informazioni richieste dall'art. 2427 n. 16 c.c.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0483" cell_code="T0483.D01.1.002_T0483.D02.1.001" context_code="c1">241724</fact>
+  <fact report_code="T0483" cell_code="T0483.D01.1.002_T0483.D02.1.002" context_code="c1">17732</fact>
+  <fact report_code="T0486" cell_code="T0486.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;Nella seguente tabella sono indicati, suddivisi per tipologia di servizi prestati, i compensi spettanti alla società di revisione.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0487" cell_code="T0487.D01.1.002_T0487.D02.1.001" context_code="c1">12216</fact>
+  <fact report_code="T0490" cell_code="T0490.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Il presente paragrafo della nota integrativa non è pertinente in quanto il capitale sociale non è rappresentato da azioni.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0498" cell_code="T0498.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;La società non ha emesso altri strumenti finanziari ai sensi dell'articolo 2346, comma 6, del codice civile.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0502" cell_code="T0502.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Ai sensi dell'articolo 2427 n°9 del Codice Civile Vi segnaliamo l'importo dei Conti d'Ordine&lt;br/&gt;&lt;ul style="margin-top:1.0pt;margin-right:1.0cm;margin-bottom:1.0pt;margin-left:4cm;text-align:left;"&gt;&lt;br/&gt;&lt;li&gt;Merci di terzi presso la società 2.187.618&lt;/li&gt;&lt;br/&gt;&lt;li&gt;Merci di nostra proprietà presso terzi Euro 611.300&lt;/li&gt;&lt;br/&gt;&lt;/ul&gt;&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0506" cell_code="T0506.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Si attesta che alla data di chiusura del bilancio non sussistono finanziamenti destinati ad uno specifico affare di cui al n. 21 dell'art. 2427 del codice civile.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0508" cell_code="T0508.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nel corso dell'esercizio sono state poste in essere operazioni con parti correlate; si tratta di operazioni concluse a condizioni di mercato, pertanto, in base alla normativa vigente, non viene fornita alcuna informazione aggiuntiva.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0510" cell_code="T0510.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Nel corso dell'esercizio non è stato posto in essere alcun accordo non risultante dallo stato patrimoniale.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0512" cell_code="T0512.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Vengono di seguito riportate le informazioni concernenti la natura e l’effetto patrimoniale, finanziario ed economico dei fatti di rilievo avvenuti dopo la chiusura dell’esercizio, ai sensi dell'art. 2427, comma 1 numero 22-quater del codice civile.&lt;br/&gt;Al momento della redazione del bilancio l'andamento dell’emergenza da COVID19 è strettamente legata all'andamento e all'efficacia della campagna vaccinale i cui risultati in termini di contenimento sia quantitativo sia di gravità del contagio paiono comunque incoraggianti.&lt;br/&gt;In un quadro di miglioramento dell'evoluzione pandemica determinata soprattutto dagli strumenti volti al suo contenimento, si ritiene che, valutati anche i dati di periodo, l’azienda disponga di una solidità finanziaria sufficiente a fronteggiare le conseguenze economiche della pandemia.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0514" cell_code="T0514.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;L’impresa che redige il bilancio consolidato è la Damiani Spa con sede legale in Valenza (AL) Piazza Damiano Grassi Damiani 1. Il bilancio sarà disponibile presso la sede sociale&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;&lt;div&gt;&lt;br/&gt;&lt;h3 style="margin-top:4.0pt;margin-right:2cm;margin-bottom:2.0pt;margin-left:2cm;text-align:left;"&gt;&lt;br/&gt;Prospetto riepilogativo del bilancio della società che esercita l'attività di direzione e coordinamento&lt;br/&gt;&lt;/h3&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0515" cell_code="T0515.D01.1.002_T0515.D02.1.001" context_code="c1">Damiani Spa</fact>
+  <fact report_code="T0515" cell_code="T0515.D01.1.003_T0515.D02.1.001" context_code="c1">Valenza</fact>
+  <fact report_code="T0515" cell_code="T0515.D01.1.004_T0515.D02.1.001" context_code="c1">01457570065</fact>
+  <fact report_code="T0515" cell_code="T0515.D01.1.005_T0515.D02.1.001" context_code="c1">Valenza</fact>
+  <fact report_code="T0518" cell_code="T0518.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Si attesta che non è stato sottoscritto alcun strumento finanziario derivato.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0520" cell_code="T0520.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Ai sensi dell'art. 2497-bis c. 4 del codice civile, si attesta che la società è soggetta all'altrui attività di direzione e coordinamento.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.002.000_T0521.D02.1.001" context_code="c1">2020-03-31</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.004.000_T0521.D02.1.001" context_code="c1">27195664</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.005.000_T0521.D02.1.001" context_code="c1">189364572</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.006.000_T0521.D02.1.001" context_code="c1">1015083</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.007.000_T0521.D02.1.001" context_code="c1">217575319</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.008.002_T0521.D02.1.001" context_code="c1">36344000</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.008.003_T0521.D02.1.001" context_code="c1">49219146</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.008.004_T0521.D02.1.001" context_code="c1">-3324261</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.008.005_T0521.D02.1.001" context_code="c1">82238885</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.009.000_T0521.D02.1.001" context_code="c1">710944</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.010.000_T0521.D02.1.001" context_code="c1">2602473</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.011.000_T0521.D02.1.001" context_code="c1">131509504</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.012.000_T0521.D02.1.001" context_code="c1">513513</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.013.000_T0521.D02.1.001" context_code="c1">217575319</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.002.000_T0521.D02.1.002" context_code="c1">2019-03-31</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.004.000_T0521.D02.1.002" context_code="c1">46851703</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.005.000_T0521.D02.1.002" context_code="c1">171024736</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.006.000_T0521.D02.1.002" context_code="c1">1030020</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.007.000_T0521.D02.1.002" context_code="c1">218906459</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.008.002_T0521.D02.1.002" context_code="c1">36344000</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.008.003_T0521.D02.1.002" context_code="c1">41528861</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.008.004_T0521.D02.1.002" context_code="c1">3381643</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.008.005_T0521.D02.1.002" context_code="c1">81254504</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.009.000_T0521.D02.1.002" context_code="c1">520945</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.010.000_T0521.D02.1.002" context_code="c1">2732035</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.011.000_T0521.D02.1.002" context_code="c1">133845130</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.012.000_T0521.D02.1.002" context_code="c1">553845</fact>
+  <fact report_code="T0521" cell_code="T0521.D01.1.013.000_T0521.D02.1.002" context_code="c1">218906459</fact>
+  <fact report_code="T0522" cell_code="T0522.D01.1.002_T0522.D02.1.001" context_code="c1">2020-03-31</fact>
+  <fact report_code="T0522" cell_code="T0522.D01.1.003_T0522.D02.1.001" context_code="c1">160733872</fact>
+  <fact report_code="T0522" cell_code="T0522.D01.1.004_T0522.D02.1.001" context_code="c1">155544999</fact>
+  <fact report_code="T0522" cell_code="T0522.D01.1.005_T0522.D02.1.001" context_code="c1">-1171387</fact>
+  <fact report_code="T0522" cell_code="T0522.D01.1.006_T0522.D02.1.001" context_code="c1">-6039833</fact>
+  <fact report_code="T0522" cell_code="T0522.D01.1.007_T0522.D02.1.001" context_code="c1">1301914</fact>
+  <fact report_code="T0522" cell_code="T0522.D01.1.008_T0522.D02.1.001" context_code="c1">-3324261</fact>
+  <fact report_code="T0522" cell_code="T0522.D01.1.002_T0522.D02.1.002" context_code="c1">2019-03-31</fact>
+  <fact report_code="T0522" cell_code="T0522.D01.1.003_T0522.D02.1.002" context_code="c1">148829175</fact>
+  <fact report_code="T0522" cell_code="T0522.D01.1.004_T0522.D02.1.002" context_code="c1">144707136</fact>
+  <fact report_code="T0522" cell_code="T0522.D01.1.005_T0522.D02.1.002" context_code="c1">1217350</fact>
+  <fact report_code="T0522" cell_code="T0522.D01.1.006_T0522.D02.1.002" context_code="c1">-71414</fact>
+  <fact report_code="T0522" cell_code="T0522.D01.1.007_T0522.D02.1.002" context_code="c1">1886332</fact>
+  <fact report_code="T0522" cell_code="T0522.D01.1.008_T0522.D02.1.002" context_code="c1">3381643</fact>
+  <fact report_code="T0536" cell_code="T0536.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Signori Soci, alla luce di quanto sopra esposto, l'organo amministrativo Vi propone di destinare l'utile d'esercizio di euro 277.175 come segue:&lt;br/&gt;&lt;ul style="margin-top:1.0pt;margin-right:1.0cm;margin-bottom:1.0pt;margin-left:4cm;text-align:left;"&gt;&lt;br/&gt;&lt;li&gt;277.175 euro alla riserva straordinaria;&lt;/li&gt;&lt;br/&gt;&lt;/ul&gt;&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;Signori Soci, Vi confermiamo che il presente bilancio, composto da stato patrimoniale, conto economico, rendiconto finanziario e nota integrativa rappresenta in modo veritiero e corretto la situazione patrimoniale e finanziaria della società, nonché il risultato economico dell'esercizio e corrisponde alle scritture contabili.&lt;br/&gt;Vi invitiamo pertanto ad approvare il progetto di bilancio al 31/03/2021 unitamente con la proposta di destinazione del risultato d'esercizio, così come predisposto dall'organo amministrativo.&lt;br/&gt;Il Bilancio è vero e reale e corrisponde alle scritture contabili&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:4.0pt;margin-right:2.5cm;margin-bottom:2.0pt;margin-left:1cm;text-align:right;"&gt;&lt;br/&gt;Valenza, 20/10/2021&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;&lt;br/&gt;&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:4.0pt;margin-right:2.5cm;margin-bottom:2.0pt;margin-left:1cm;text-align:right;"&gt;&lt;br/&gt;Il Presidente del Consiglio di Amministrazione&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;p style="margin-top:4.0pt;margin-right:2.5cm;margin-bottom:2.0pt;margin-left:1cm;text-align:right;"&gt;&lt;br/&gt;Giorgio Andrea Grassi Damiani&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+  <fact report_code="T0642" cell_code="T0642.D01.1.001" context_code="c1">&lt;div&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:justify;"&gt;&lt;br/&gt;La sottoscritta dott.ssa Bonzo Emma, in qualità di professionista incaricato, ai sensi dell'art. 31 comma 2-quinquies della Legge 340/2000, dichiara che il presente documento è conforme all'originale depositato presso la società.&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;p style="margin-top:2.0pt;margin-right:1.5cm;margin-bottom:1.0pt;margin-left:0.5cm;text-align:right;"&gt;&lt;br/&gt;Valenza, 20/10/2021&lt;br/&gt;&lt;/p&gt;&lt;br/&gt;&lt;/div&gt;</fact>
+</instance>

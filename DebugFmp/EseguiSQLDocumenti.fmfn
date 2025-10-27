@@ -1,0 +1,8 @@
+EseguiSQL (
+    "SELECT
+     D.IdDocumento ,
+     D.OpzioniDocumento ,
+     D.OpzioniDocumento
+     FROM Documenti AS D
+     WHERE D.IdDocumento = '" & Documenti::IdDocumento& "'
+     ORDER BY D.IdDocumento"; "" ; "")

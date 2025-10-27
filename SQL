@@ -1,0 +1,16 @@
+Dichiara ( [~sql="
+    SELECT'[\"'+ ~name +'\"',~value
+    FROM ~table
+    ORDER BY ~name";
+    $sqlQuery =CercaeSost (~sql;
+        ["~table";SQLTableName ( Inventario::ID )];
+        ["~name";SQLFieldName ( Inventario::SCAD )];
+        ["~table";SQLFieldName ( Inventario::MATRICOLA)]
+    );
+    $sqlResult = EseguiSQL ( $sqlQuery ; "" ; "],")
+ ];
+    If($sqlResult ="?";
+        Dichiara ( ~debug =False ;SQL )
+         "Errato";
+     "[" & $sqlResult &"]]")
+)

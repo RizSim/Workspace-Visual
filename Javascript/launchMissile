@@ -1,0 +1,7 @@
+var launchMissile = function (value) {
+    missileSystem.launch("adesso");
+    if (pollo != pollo)
+    launchMissile = function (value) {/* non fa nulla*/ }
+}
+
+console.log(launchMissile())

@@ -1,0 +1,42 @@
+# http://www.graphviz.org/content/cluster
+
+digraph G {
+  graph [fontname = "GillSans"];
+  node [fontname = "Courier"];
+  edge [fontname = "Handlee"];
+
+  bgcolor="#e9f0d6";
+
+  subgraph cluster_0 {
+    style=filled;
+    color="#f4ebc4";
+    node [style=filled,color="#85dbb1"];
+    Meccanica -> OreficeriaEst -> IncassaturaEst -> AssemblaggioEst -> PulituraEst -> LaserEst -> GalvanicaEst 
+    label = "Esterno"
+    fontsize = 20;
+  }
+
+  subgraph cluster_1 {
+    style=filled;
+    color = red
+    Cere -> Fusione -> Oreficeria  ->Incastonatura -> Assemblaggio-> Pulitura -> Laser -> Galvanica;
+    Stl
+    label = "Interno";
+    fontsize = 36;
+    color = "#bcdbc1ff"
+  }
+  Ordine -> Cere;
+  Ordine -> Stl;
+  Stl -> Fusione;
+  Fusione -> OreficeriaEst
+  Ordine -> Meccanica;
+  Meccanica -> Oreficeria;
+  Oreficeria -> IncassaturaEst
+  Oreficeria -> AssemblaggioEst
+  IncassaturaEst -> Pulitura
+  Galvanica -> Consegna;
+  GalvanicaEst -> Consegna
+
+  Ordine [shape=Mdiamond];
+  Consegna [shape=Msquare];
+}

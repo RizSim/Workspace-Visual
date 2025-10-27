@@ -1,0 +1,20 @@
+"CategoriaMagazzino|IdComponente|Descrizione|Carico|Scarico|Saldo"&Carattere ( 10 ) & 
+EseguiSQL (
+    "SELECT
+     Com.CategoriaMagazzino,
+     Gia.IdComponente,
+     Gia.Descrizione,
+     SUM(Gia.Carico),
+     SUM(Gia.Scarico),
+     SUM(Gia.ccSaldoRiga)
+     FROM Documenti AS Doc
+     JOIN DocumentiRighe As DocRig
+     ON Doc.IdDocumento = DocRig.IdDocumento
+     JOIN Giacenze As Gia
+     ON Gia.IdDocumentoRiga =DocRig.IdDocumentoRiga
+     JOIN Componenti As Com
+     ON Com.IdComponente = Gia.IdComponente
+     WHERE Doc.IdDocumento = '" & Documenti::IdDocumento& "'
+     GROUP BY Com.CategoriaMagazzino,Gia.IdComponente ,Gia.Descrizione
+     ORDER BY Com.CategoriaMagazzino ASC
+     "; "|" ; "")

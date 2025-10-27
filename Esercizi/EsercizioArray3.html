@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<style>
+  body {
+    background-color: whitesmoke;
+  }
+
+  h2 {
+    color: white;
+    text-align: center;
+  }
+
+  p {
+    color: rgb(63, 32, 134);
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 1em;
+  }
+
+  li {
+    color: #ff7f50;
+    font-family: verdana;
+    font-size: 20px;
+  }
+</style>
+
+<body>
+
+  <h2>JavaScript Arrays</h2>
+
+
+
+  <p id="demo"></p>
+
+  <p id="demo2"></p>
+
+  <object id="svg-object" data="Brill.svg" type="image/svg+xml"></object>
+
+  <script script type="text/javascript">
+
+    const Col =
+      [
+        ["Purple color names", "Violet", "EE82EE"],
+        ["Purple color names", "Orchid", "DA70D6"],
+        ["Purple color names", "Fuchsia", "FF00FF"],
+        ["Purple color names", "Magenta", "FF00FF"],
+        ["Purple color names", "MediumOrchid", "BA55D3"],
+        ["Purple color names", "MediumPurple", "9370DB"],
+        ["Purple color names", "Amethyst", "9966CC"],
+        ["Purple color names", "BlueViolet", "8A2BE2"],
+        ["Purple color names", "DarkViolet", "9400D3"],
+        ["Purple color names", "DarkOrchid", "9932CC"],
+        ["Purple color names", "DarkMagenta", "8B008B"],
+        ["Purple color names", "Purple", "800080"],
+        ["Purple color names", "Indigo", "4B0082"],
+        ["Purple color names", "SlateBlue", "6A5ACD"],
+        ["Purple color names", "DarkSlateBlue", "483D8B"],
+        ["Purple color names", "MediumSlateBlue", "7B68EE"],
+        ["Green color names", "GreenYellow", "ADFF2F"],
+        ["Green color names", "Chartreuse", "7FFF00"],
+        ["Green color names", "LawnGreen", "7CFC00"],
+        ["Green color names", "Lime", "00FF00"],
+        ["Green color names", "LimeGreen", "32CD32"],
+        ["Green color names", "PaleGreen", "98FB98"]
+      ];
+
+    let text = "<ul>";
+    Col.forEach(myFunction);
+    text += "</ul>";
+    document.getElementById("demo").innerHTML = text;
+
+    function myFunction(value) {
+      text += "<li style=\"color:#" + value[2] + "\">" + value[1] + " _0_ " + value[2] + "</li>";
+    }
+  </script>
+
+  <script>
+    <object id="svg-object" data="Brill.svg" type="image/svg+xml">
+    </object>
+  //var svg = document.getElementsByTagName('svg-object')[0];
+  </script>
+
+
+
+
+</body>
+
+</html>

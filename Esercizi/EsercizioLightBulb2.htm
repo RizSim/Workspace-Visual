@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <h1>Cosa può fare JavaScript ?</h1>
+
+    <p>JavaScript can change HTML attribute values.</p>
+
+    <p>In this case JavaScript changes the value of the src (source) attribute of an image.</p>
+
+    <p id="demo"></p>
+    <p id="demo2">JavaScript può cambiare l' HTML content.</p>
+    <p id="demo3"></p>
+    <p id="demo4"></p>
+    <p id="demo5"></p>
+    <p id="demo6">Vuoto</p>
+
+    <script>
+        document.getElementById("demo").innerHTML = "Il mio primo JavaScript";
+    </script>
+
+    <script>
+        let contatore = 0;
+        const lista1 = ["Banana", "Orange", "Apple", "Mango"];
+        const lista2 = [];
+    </script>
+
+    <script>src='HelloWord.js'</script>
+
+    <button onclick="document.getElementById('myImage').src='/pic_bulbon.gif'">Turn on the light</button>
+
+    <img id="myImage" src="/pic_bulboff.gif" style="width:150px">
+
+    <button onclick="document.getElementById('myImage').src='/pic_bulboff.gif'">Turn off the light</button>
+
+    <div><button onclick="document.getElementById('myImage').src='/SVG/Brill.svg'">Brillante</button></div>
+
+    <button type="button" onclick="document.getElementById('demo2').innerHTML = 'Contenuto cambiato'">Clicca</button>
+
+    <button type="button" onclick="document.getElementById('demo3').innerHTML = contatore +=1 ">Aggiungi</button>
+    <button type="button" onclick="document.getElementById('demo3').innerHTML = contatore -=1 ">Togli</button>
+    <button type="button" onclick="document.getElementById('demo6').innerHTML = Valore ">Chiama Script</button><!--Per ora non funziona dovrebbe chiamare script-->
+
+    <button type="button"
+        onclick="contatore+=1;lista1.push('Altro'+contatore);document.getElementById('demo4').innerHTML = lista1 ">Aggiungi</button>
+    <button type="button" onclick="lista1.pop();document.getElementById('demo4').innerHTML = lista1">Togli</button>
+    <button type="button"
+        onclick="lista2.push(lista1.shift());document.getElementById('demo4').innerHTML = lista1;document.getElementById('demo5').innerHTML = lista2">Sposta il primo</button>
+
+</body>
+
+</html>

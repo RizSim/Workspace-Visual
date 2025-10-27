@@ -1,0 +1,7 @@
+console.log(true && false)/*true e false */
+console.log(true && true)
+console.log(true!=false)
+console.log(true==1)
+console.log(false==1)/*false è0 */
+console.log(false==0)
+console.log(1+1==2 && 10*10>50)

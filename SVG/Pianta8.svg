@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" width="1190.549pt" height="841.248pt" viewBox="0 0 1190.549 841.248" overflow="visible" xmlns="http://www.w3.org/2000/svg">
+  <path d="M863.8356,572.3058 L987.3148,572.3058 L987.3148,427.7052 L863.8356,427.7052 z" stroke="#000000" stroke-width="2" fill="none" />
+  <path d="M220.2737,704.0652 L863.8356,704.0652 L863.8356,427.7053 L220.2737,427.7052 z" stroke="#000000" stroke-width="2" fill="none" />
+  <path d="M0,0 L260.8351,427.7052 L260.8351,295.5852 L63.79442,295.5852 z" stroke="#000000" stroke-width="2" fill="none" />
+  <path d="M341.8336,261.626 L520.1545,261.626 L520.1545,137.1832 L341.8336,137.1832 z" stroke="red" stroke-width="2" fill="none" />
+  <path d="M63.79442,295.5852 L260.8351,295.5852 L260.8351,137.1832 L63.79442,137.1832 z" stroke="#000000" stroke-width="2" fill="none" />
+  <path d="M591.0753,296.0653 L863.8356,296.0653 L863.8356,137.1832 L591.0753,137.1832 z" stroke="#000000" stroke-width="2" fill="none" />
+  <path d="M863.8356,427.7052 L1126.755,427.7052 L1126.755,137.1832 L863.8356,137.1832 z" stroke="blue" stroke-width="2" fill="none" />
+  <path d="M63.79442,704.0652 L1126.755,704.0652 L1126.755,137.1832 L63.79442,137.1832 z" stroke="#000000" stroke-width="2" fill="none" />
+  <path d="M863.8356,704.0652 L1126.755,704.0652 L1126.755,572.3058 L863.8356,572.3058 z" stroke="#000000" stroke-width="2" fill="none" />
+</svg>

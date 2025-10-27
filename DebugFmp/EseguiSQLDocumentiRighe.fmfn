@@ -1,0 +1,12 @@
+EseguiSQL (
+    "SELECT
+     Doc.IdDocumento ,
+     Doc.dDocumento,
+     Doc.OpzioniDocumento ,
+     DocRig.IdDocumento,
+     DocRig.IdDocumentoRiga,
+     DocRig.AuConsegnato
+     FROM Documenti AS Doc INNER JOIN DocumentiRighe As DocRig
+     ON Doc.IdDocumento = DocRig.IdDocumento
+     WHERE Doc.IdDocumento = '" & Documenti::IdDocumento& "'
+     ORDER BY Doc.IdDocumento"; "|" ; "")

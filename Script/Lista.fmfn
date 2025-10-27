@@ -1,0 +1,31 @@
+# Field names and delimiter
+Set Variable [ $delim ; Value: Char(9) // tab character ] 
+# Set these dynamically with a script parameter
+Set Variable [ $fields ; Value: List ( "Contacts::nameFirst" ; "Contacts::nameCompany" ; "Contacts::nameLast" ) ] 
+Set Variable [ $fieldCount ; Value: ValueCount ( $fields ) ] 
+
+Go to Layout [ “Contacts” (Contacts) ; Animation: None ]
+Show All Records
+Go to Record/Request/Page [ First ]
+
+# Loop over all the records and append a row in the $data variable for each
+Set Variable [ $data ; Value: "" ] 
+Loop
+    # Get the delimited field values
+    Set Variable [ $i ; Value: 0 ] 
+    Set Variable [ $row ; Value: "" ] 
+    Loop
+        Exit Loop If [ Let ( $i = $i + 1 ; $i > $fieldCount ) ] 
+        Set Variable [ $value ; Value: GetField ( GetValue ( $fields ; $i ) ) ] 
+        Insert Calculated Result [ Target: $row ; If ( $i > 1 ; $delim ) & $value ] 
+    End Loop
+    enter code here
+    # Append the new row of data to the list variable
+    Insert Calculated Result [ Target: $data ; If ( Get ( RecordNumber ) > 1 ; ¶ ) & $row ] 
+    Go to Record/Request/Page [ Next ; Exit after last: On ]
+End Loop
+
+# Save to a global variable to show in a virtual list layout
+Set Variable [ $$DATA ; Value: $data ] 
+
+Exit Script [ Text Result:    ]

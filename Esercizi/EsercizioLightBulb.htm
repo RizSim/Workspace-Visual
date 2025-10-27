@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body>    
+
+<h2>Cosa può fare JavaScript ?</h2>
+
+<p>JavaScript can change HTML attribute values.</p>
+
+<p>In this case JavaScript changes the value of the src (source) attribute of an image.</p>
+
+<p id="demo"></p>
+
+
+
+<script>
+document.getElementById("demo").innerHTML = "Il mio primo JavaScript";
+let contatore=0
+</script>
+
+
+<button onclick="document.getElementById('myImage').src='/pic_bulbon.gif'">Turn on the light</button>
+
+<img id="myImage" src="/pic_bulboff.gif" style="width:150px">
+
+<button onclick="document.getElementById('myImage').src='/pic_bulboff.gif'">Turn off the light</button>
+
+<div><button onclick="document.getElementById('myImage').src='/SVG/Brill.svg'">Brillante</button></div>
+
+
+<p id="demo2">JavaScript può cambiare l' HTML content.</p>
+
+
+
+<button type="button" onclick="document.getElementById('demo2').innerHTML = 'Contenuto cambiato'">Clicca</button>
+
+<p id="demo3">contatore</p>
+<button type="button" onclick="document.getElementById('demo3').innerHTML = contatore +=1 ">Aggiungi</button>
+<button type="button" onclick="document.getElementById('demo3').innerHTML = contatore -=1 ">Togli</button>
+
+</body>
+</html>

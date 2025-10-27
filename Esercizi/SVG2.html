@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>SVG TEST</title>
+</head>
+
+<body>
+	<div style="width:600px;height:400px;border:12px solid rgb(71, 41, 179)">
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="10 10 400PX 400PX " id="inline-svg">
+			<rect id="background" width="120px" height="120px" fill="grey" />
+			<text font-size="24px" x="26" y="26">Inline SVG</text>
+			<script type="text/javascript">
+				var svg = document.getElementsByTagName('svg')[0];
+				var element = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+				element.setAttributeNS(null, 'x', 10);
+				element.setAttributeNS(null, 'y', 15);
+				element.setAttributeNS(null, 'width', 25);
+				element.setAttributeNS(null, 'height', 30);
+				element.setAttributeNS(null, 'fill', '#007bff');
+				svg.appendChild(element);
+				console.log(1 < 2);
+			</script>
+		</svg>
+	</div>
+
+	<object width="200" height="160" id="svg-object" style="border:1px solid blueviolet" data="../SVG/Brill.svg"
+		type="image/svg+xml">
+	</object>
+	<p>
+		<img width="300" height="300" id="svg-img" style="border:1px solid rgb(40, 19, 117)" src="/SVG/Brill.svg">
+		</img>
+	</p>
+
+
+
+	<script type="text/javascript">
+		window.addEventListener("load", updateSVGs);
+
+		var colore = "yellow"
+
+		function addRect(svg) {
+			var element = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+			element.setAttributeNS(null, 'x', 65);
+			element.setAttributeNS(null, 'y', 65);
+			element.setAttributeNS(null, 'width', 80);
+			element.setAttributeNS(null, 'height', 80);
+			element.setAttributeNS(null, 'fill', colore);
+			svg.appendChild(element);
+		}
+
+		function updateSVGs() {
+			var svg = document.getElementById('inline-svg');
+			addRect(svg);
+			svg.removeChild(document.getElementById('background'));
+			var element = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+			element.setAttributeNS(null, 'x', 40);
+			element.setAttributeNS(null, 'y', 80);
+			element.setAttributeNS(null, 'style', 'font: 72px sans-serif ; inline-size: 200px; text-anchor: right');
+
+			var txt = document.createTextNode("Hello world");
+			element.appendChild(txt);
+			svg.appendChild(element);
+
+		}
+	</script>
+</body>
+
+</html>
