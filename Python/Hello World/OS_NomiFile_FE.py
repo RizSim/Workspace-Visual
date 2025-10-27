@@ -1,7 +1,7 @@
 import os
 import xml.etree.ElementTree as ET
 
-fp='C:\\Users\\rizzesim\\OneDrive - CASA DAMIANI SPA\\Documenti\\Workspace Visual\\Python\\scratches\\'
+fp="C:\Users\rizzesim\OneDrive - CASA DAMIANI S.P.A\Documenti\Workspace Visual\Python\scratches"
 
 
 with os.scandir(fp) as it:

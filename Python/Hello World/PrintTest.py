@@ -1,0 +1,1 @@
+print("Ciao Simone, VS Code è configurato correttamente!")

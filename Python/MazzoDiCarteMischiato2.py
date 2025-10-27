@@ -37,5 +37,5 @@ random.shuffle(Mazzo)
 
 for x in range(10):
     for Nome in NomeGiocatori:
-        Nome[0].append(Mazzo[x].pop)
+        NomeGiocatori[0].append(Mazzo[x].pop)
 # %%
