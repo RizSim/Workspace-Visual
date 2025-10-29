@@ -2,9 +2,25 @@ import os
 import pandas as pd
 
 # 🔧 Inserisci qui il percorso reale della cartella con i file Excel
-input_directory = r'\\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\MAGNO\MAGNO 2025'  # <-- Modifica questo percorso
-output_directory = r'C:\Users\rizzesim\OneDrive - CASA DAMIANI S.P.A\Allegati'  # <-- Modifica questo percorso
-output_file = os.path.join(output_directory, 'riepilogo_fogli.txt')
+input_directory = r'\\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI'
+output_directory = r'C:\Users\rizzesim\OneDrive - CASA DAMIANI S.P.A\Allegati'
+
+# Funzione per generare il nome del file con numero progressivo
+def get_unique_filename(base_path):
+    if not os.path.exists(base_path):
+        return base_path
+    
+    base_name, ext = os.path.splitext(base_path)
+    counter = 1
+    while True:
+        new_path = f"{base_name}_{counter}{ext}"
+        if not os.path.exists(new_path):
+            return new_path
+        counter += 1
+
+# Genera il nome del file di output
+base_output_file = os.path.join(output_directory, 'riepilogo_fogli.txt')
+output_file = get_unique_filename(base_output_file)
 
 riepilogo = []
 

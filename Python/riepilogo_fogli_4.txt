@@ -1,0 +1,1071 @@
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\COLLEZIONE INFINITY 2013 -VERETTE INT..xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\collezione infinity 2013 solitari.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\COLLEZIONE INFINITY 2013.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\collezione LAILA- produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\collezione LAILA.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\COLLEZIONE MY LIGHT -croce- produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\COLLEZIONE MY LIGHT -croce.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\COLLEZIONE MY LIGHT -solitarietti-produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\COLLEZIONE MY LIGHT -solitarietti.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\collezione MY LIGHT FEDI -.xlsx
+  - TOTALE
+  - BIANCO
+  - GIALLO
+  - ROSA
+  - BRUNITO NERO
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\COLLEZIONE shirley - COPIA PER PRODUZIONE.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\COLLEZIONE shirley.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\collierini e orecchini infinity - COPIA PER PRODUZIONE.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\collierini e orecchini infinity.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\CROCI INFINITY -produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\CROCI INFINITY.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\croci KIRA- produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\croci KIRA.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\croci uomo cm.50.xlsx
+  - croce infinity
+  - croce Kira 
+  - croce allegoria gr.
+  - croce allegoria picc.
+  - pap e codici 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\Fedi D.Side- pesi.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\fedi infinity incass. produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\fedi infinity per produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\fedi my light - COPIA PER PRODUZIONE.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\fedi my light.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\GOCCIE DI LUCE - ninfee perla.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\GOCCIE DI LUCE -produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\JOSEPHINE - COPIA PER PRODUZIONE.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\JOSEPHINE EXT - 3-5br.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\JOSEPHINE EXT 3-5br- produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\JOSEPHINE FULL PAVE'-produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\JOSEPHINE FULL PAVE'.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\JOSEPHINE.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\kira - COPIA PER PRODUZIONE.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\kira.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\preventivi Abbraccio Firenze.xlsx
+  - versione pave
+  - versione incassata 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\SHIRLEY FULL PAVE'- produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\SHIRLEY FULL PAVE'.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\solitari infinity per produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\SOLITARI MY LIGHT - COPIA PER PRODUZIONE.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\SOLITARI MY LIGHT.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2011\COLLEZIONE SEGNI SEMIPREZIOSO-produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2011\COLLEZIONE SEGNI SEMIPREZIOSO.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2012\calcolo schede.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2012\LA CROISETTE-produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2012\LA CROISETTE.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2012\My light inter canvass - Copia per Produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2012\My light inter canvass.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2012\my light settembre 2012- PRODUZIONE.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2012\my light settembre 2012.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2012\SCHEDA SALVINI -GENNAIO 2012.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2012\SEGNI MULTICOLOR-produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2012\SEGNI MULTICOLOR.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2014\collezione ABBRACCIO - EX NEW CALLIOPE INCASSATA.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2014\collezione ABBRACCIO - EX NEW CALLIOPE ORO.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2014\collezione ABBRACCIO -EX NEW CALLIOPE FULL PAVE'.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2014\collezione FRAMMENTI D'AUTORE 18 kt..xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2014\collezione FRAMMENTI D'AUTORE-produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2014\collezione FRAMMENTI D'AUTORE.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2014\collezione new calliope  2014 solitari.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2014\collezione NEW CALLIOPE -Perla.xlsx
+  - anello pe incass.
+  - collier. pe incass
+  - bocc.pe incass,
+  - anello pe oro 
+  - collierino  pe oro 
+  - boccole pe oro 
+  - anello full pave' +pe
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2015\81058841 -HAPPINES PRECIOUS CHANEL FARF con catena in OR.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2015\ABBRACCIO  (ex new calliope)-versione oro no certificata.xlsx
+  - anello ct.0,13
+  - anello ct.0,15
+  - anello ct.0,18
+  - anello ct.0,22
+  - anello ct.0,27
+  - collierino 0,11
+  - collierino 0,16
+  - collierino 0,21
+  - collierino 0,25
+  - boccole ct.0,20
+  - boccole ct.0,34
+  - boccole ct.0,44
+  - boccole ct.0,52
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2015\DUMAI - an con perla-.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2015\Febb 2015 HAPPINES PRECIOUS - sautoire.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2015\maggio 2015-GOLDEN CAGE.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2015\nov.2015 -FRAMMENTI D'AUTORE ext..xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2015\sett.2015 I SEGNI ex new segni salvini -Produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2015\sett.2015 I SEGNI ex new segni salvini.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2016\febb.2016GOLDEN CAGE MAN.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2016\marzo.2016 MP  30  years collection-  OPTICAL.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2016\marzo.2016 MP  30 years colletion - SEGNI.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2016\sett 2016 I SEGNI saliscendi + boccole.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2016\SKT PER PRODUZIONE 2016\febb.2016GOLDEN CAGE MAN - per produzione.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\battito forecast 08.06.2017 perego.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\battito forecast 14.06.2017 perego.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\battito forecast 21.06.2017.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\battito forecast 23.05.2017-perego def..xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\battito forecast 28 .06.2017.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\battito forecast 31..05.2017-perego.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\battito situazione al  13.06.2017 perego.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\CLASSICO PERSONALIZZATO.xlsx
+  - base calcolo 
+  - tabella primo lancio 
+  - tabella originale 
+  - tabella completa 
+  - diamanti cgs 
+  - tabella aggiorn.giugno 18
+  - carature integrative F VS 
+  - carature integrative F SI 
+  - battito FSI - CGS 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\FORECAST SOLITARIO PERSONALIZZATO SALVINI.xlsx
+  - forecast complessivo 
+  - forecast di produzione 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\preventivi con qualita' G IF - cliente LINEA ORO.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\solitario Battito - situazione produttiva -.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\solitario personalizzato -costi def. 27.04.17.xlsx
+  - dettaglio costi per Carlo -
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\vednuto al 2805.xlsx
+  - Foglio1
+  - Sku Solitario
+  - Il solitario-al 28.05
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\venduto  al 12.06.xlsx
+  - Sku Battito
+  - Battito-al 12.06
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\venduto  al 2106.xlsx
+  - Sku Solitario
+  - Il solitario-al 21.06
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\venduto al 06.07.xlsx
+  - Sku Solitario
+  - Il solitario-al 06.07
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\venduto al 13.07.xlsx
+  - Sku Solitario
+  - Il solitario-al 13.07
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\venduto al 14.06.xlsx
+  - Sku Solitario
+  - Il solitario-al 12.06
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\venduto al 18.05.xlsx
+  - Foglio2
+  - Il solitario-al 18.05
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\venduto al 18.06.xlsx
+  - Sku Solitario
+  - Il solitario-al 18.06
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\venduto al 20.07.xlsx
+  - Sku Solitario
+  - Il solitario-al 20.07
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\venduto al 22.05.xlsx
+  - Il solitario-al 22.05
+  - pezzi
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\venduto al 24.05.xlsx
+  - Foglio3
+  - Foglio4
+  - Il solitario-al 24.05
+  - Sku Solitario
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\venduto al 27.06.2017.xlsx
+  - Sku Solitario
+  - Il solitario-al 25.06
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\venduto al 28.06.xlsx
+  - Sku Solitario
+  - Il solitario-al 28.06
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\venduto al 30.05.xlsx
+  - Sku Solitario
+  - Il solitario-al 30.05
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SOLITARIO PERSONALIZZATO\venduto al 5.06.xlsx
+  - Sku Solitario
+  - Il solitario-al 05.06
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SUNNY\COSTI S01.xlsx
+  - riepilogo 
+  - dettaglio lav.
+  - dettaglio misure 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2017\SUNNY\sett.2017 - Collezione SUNNY- completa.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2018\anelli segni - lulgio 2018.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2018\bracciali manette sunny.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2018\collezione Infinito - ordini per funzionari.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2018\gennaio 18 - EUFORIA EXT -.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2018\gennaio 18- daphe cipollina -.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2018\LETTERE SALVINI - ALFABHET.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2018\riflesso sol.6griff diritto.xlsx
+  - riflesso
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2018\segni salvini - aprile 18.xlsm
+  - Foglio2
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2018\sett. 2018 - segni lucidi coll. bocc..xlsx
+  - croce or
+  - cuore or
+  - farfalla or
+  - quadrifoglio or 
+  - croce og 
+  - cuore og 
+  - farfalla og 
+  - quadrifoglio og
+  - boccole cuore or 
+  - boccole farfalla or
+  - boccole quadrifoglio or
+  - boccole cuore og 
+  - boccole farfalla og
+  - boccole quadrifoglio og
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2018\sett.2018 - chiusure segni e pallina.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2018\sett.2018 - croci black.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2018\sett.2018 segni pietra dura.xlsx
+  - chanel 3 segni  cuori 
+  - chanel 3 segni  farfalla
+  - chanel 2 segni  farfalla 
+  - chanel 2 segni  cuore 
+  - bracciale farfalla lapis
+  - bracciale farfalla madrep.
+  - bracciale farfalla corniola 
+  - bracciale farfalla malachite 
+  - bracciale cuore lapis 
+  - bracciale cuore madrep.
+  - bracciale cuore madrep. piccolo
+  - bracciale farfalla madrep.picc.
+  - bracciale cuore corniola 
+  - bracciale cuore malachite 
+  - bracciale cuore rigido
+  - bracciale farfalla rigido 
+  - bracciale 2 segno rigido 
+  - anello farfalla pietra dura 
+  - anello cuore pietra dura 
+  - collierino farfalla medio
+  - collierin cuore medio  
+  - boccole cuore picc.
+  - boccole farfalla picc. 
+  - collana lunga 1 segno 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2018\settemb. 2018 - ext segni oro e pave'.xlsx
+  - anello croce pave
+  - anello cuore pave
+  - anello farfalla pave
+  - anello quadrifoglio 
+  - anello croce oro rosa 
+  - anello cuore oro rosa
+  - anello farfalla oro rosa 
+  - anello quadrifoglio oro rosa
+  - anello croce oro giallo
+  - anello cuore oro giallo
+  - anello farfalla oro giallo
+  - anello quadrifoglio oro giallo
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2018\speciali pietra dura collane segni.xlsx
+  - collana 2 elementi farfalla 
+  - collana 2 elementi cuore 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2019\abbraccio lucido def. genn2019.xlsx
+  - abbraccio lucido VS 
+  - abbraccio lucido SI 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2019\gennaio 19- INFINITO.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2019\INFINITO - Collezione - specifica codici 26-07-19.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2019\sett.19 - Inifnito.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2020\D.ICON 7mm. codifica.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2020\febb.2020- segni sgriffati.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2020\febbraio 2020- cristal.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2020\febbraio 2020- verette int. Mimosa.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2020\file d.side oro e pave' new..xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2020\Schede croci + pendente BL- trevi.xlsx
+  - CROCE BIG 23X19
+  - 3°mis.LD
+  - CROCE MEDIUM 16X19
+  - 2°mis. LD
+  - CROCE SMALL 12X14
+  - 1°mis. LD 
+  - PND BELLE EPOQUE
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2020\sett.20 TENNIS BELLE EPOQUE -.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2020\settembre 20 - B.EPOQUE COLLIERINI solo scafo esterno_18052023.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2020\settembre 20 - B.EPOQUE COLLIERINI.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2020\settembre 20 - MARGHERITA COLORE.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2020\settembre 20- D.SIDE boccole + bracc..xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2020\settembre 2020- minou acquamarina.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2020\solitario Minou 4 punte def.xlsx
+  - solitario minou 
+  - solitario minou misure 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\abbraccio 70+30.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\anelli belle epoque e margherita.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\BELLE EOQUE BRIDEL - lancio luglio 21....xlsx
+  - verette intere incass.
+  - veretta semi incassata
+  - veretta oro 
+  - solitario oro gambo tutto lavor
+  - solitario oro meta gambo lavor.
+  - solitario con gambo meta' incas
+  - solitario gambo tutto inc.
+  - tabellla riepilogativa .
+  - tabellla riepilogativa platino)
+  - PAP SOLITARI 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\belle epoque bridel tabella riepilogativa.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\BELLE EPOQUE CROCI NEW CODE.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\belle epoque girevoli - dettaglio costi def.xlsx
+  - tabella generale 
+  - tabella generale 2
+  - pap 
+  - versione in lancio 
+  - dettglio costi magg.22
+  - piccola 
+  - piccolo incass. 
+  - grande incassato 
+  - grande 
+  - collierino picc. lucido
+  - collierino picc. incassato
+  - collierino grande lucido
+  - collierino grande incass
+  - orecchini  lucidi
+  - orecchini incass.
+  - bracciale oro morbido 
+  - tabella bracc. morbido lucido
+  - bracciale morbido incassato 
+  - tabella bracciale morbido 
+  - bracciale rigido lucido 
+  - bracciale rigido incassato 
+  - bracciale rigido semi-incass. 
+  - tabella bracciali rigidi 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\belle epoque girevoli - dispo M011 Maggio2022.xlsx
+  - BELLE EPOQUE REEL anelli
+  - BELLE EPOQUE REEL ciondoli
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\BELLE EPOQUE REEL - COD 81XXXX NON CONFORMI ALLO STD.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\Copia di BELLE EOQUE BRIDEL - lancio luglio 21... DEFinitivo.xlsx
+  - verette intere incass.
+  - veretta semi incassata
+  - veretta oro 
+  - solitario oro gambo tutto lavor
+  - solitario oro meta gambo lavor.
+  - solitario con gambo meta' incas
+  - solitario gambo tutto inc.
+  - tabellla riepilogativa .
+  - tabellla riepilogativa platino)
+  - PAP SOLITARI 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\Copia di belle epoque girevoli - dettaglio costi def 17-06..xlsx
+  - tabella generale 
+  - tabella generale 2
+  - pap 
+  - versione in lancio 
+  - dettglio costi magg.22
+  - piccola 
+  - piccola Mattioli 
+  - piccolo incass. 
+  - new piccola incass. 
+  - new piccola incass.Mattioli 
+  - grande incassato 
+  - grande incass. mattioli 
+  - grande 
+  - grande Mattioli 
+  - collierino picc. lucido
+  - collierino picc. incassato
+  - collierino grande lucido
+  - collierino grande incass
+  - orecchini  lucidi
+  - orecchini incass.
+  - bracciale oro morbido 
+  - tabella bracc. morbido lucido
+  - bracciale morbido incassato 
+  - tabella bracciale morbido 
+  - bracciale rigido lucido 
+  - bracciale rigido incassato 
+  - bracciale rigido semi-incass. 
+  - tabella bracciali rigidi 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\DAMIANI GENNAIO 2021 - AGENTI E DOPPIO CAMPIONARIO.xlsx
+  - RIUNIONE SVP1509
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\DAMIANI_Richiesta codifica taglie anelli margherita.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\gennaio 2021 - belle epoque colore oro.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\gennaio 2021 - belle epoque singolo.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\gennaio 2021 - EDEN colore.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\gennaio 2021- margherita mini.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\giugno 2021 - verette intere minou.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\giugno 2021- minou full pave forma piccolo.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\giugno 2021- minou full pave tondo piccolo.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\luglio 21 - EDEN COLORE ORO.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\MIS ANELLI BELLE EPOQUE.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\schede belle epoque bridel.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2021\VERETTE IMPILABILI_MIS DITO- salvini.xlsx
+  - VERETTE A GIRO
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2022\220608_ CODICI Belle Epoque Reel Maggio 22.xlsx
+  - Allocazioni QTY
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2022\anelli belle epoque PESO DEF.xlsm
+  - anello br ob
+  - anello br og 
+  - anelli br or
+  - anello rubino ob
+  - anello rubino or 
+  - anello zaffiro 
+  - anello brill e smeraldo 
+  - anello brill e smeraldo  og
+  - anelli 
+  - croci
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2022\COVER_02112021.xlsx
+  - COVER_02112021
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2022\gennaio 22 - MARGHERITA HYBRID.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2022\gennaio 22 - WAY OF LOVE nuovo solitario salvini.xlsx
+  - solitario 
+  - fedi oro  
+  - verette incassate 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2022\my first damiani.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2022\EVA SALVINI pdf skt ld - zuzze\collezione EVA SCHEDE DEF..xlsx
+  - veretta piccola 
+  - veretta piccola trevi 
+  - veretta grande 
+  - veretta grande Trevi 
+  - veretta pave 
+  - veretta pave' trevi 
+  - anello serpente pave' 
+  - anello serpente pave' trevi 
+  - anello serpente oro 
+  - anello serpente oro trevi 
+  - collierino inca. serpente
+  - coll. incass.serp. trevi 
+  - coll. serpente lucido 
+  - coll. serp. lucido trevi
+  - collierino lucido tondo 
+  - collierino lucido tondo trevi
+  - collieirno pave' tondo 
+  - collierino pave Trevi
+  - orecchino lucido 
+  - orecchino lucido trevi 
+  - orecchino incassato 
+  - orecchino pave' trevi 
+  - bracciale lucido 2 teste 
+  - bracciale lucido trevi 
+  - bracciale pave' 2 teste 
+  - bracciale pave' trevi 
+  - bracciale lucido 
+  - bracciale incass. piccolo 
+  - bg incass. cm.16,50
+  - bg incass. cm.17,50 
+  - bg incass. cm. 18,50
+  - bg incass. cm. 19,50 
+  - bg incass. cm. 20,50
+  - tabella riepilogativa  misure 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2022\EVA SALVINI pdf skt ld - zuzze\COLLEZIONE EVA- 10.02.2023 DEF..xlsx
+  - EVA
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2022\EVA SALVINI pdf skt ld - zuzze\SCHEDE EVA TREVI.xlsx
+  - veretta small_C LAV
+  - veretta  big_C LAV
+  - snake plain_C LAV
+  - veretta  big pavé
+  - snake pavè
+  - orecchino plain_C LAV
+  - orecchino pavé
+  - bracciale plain_C LAV
+  - bracciale pavé
+  - collier doppio plain_C LAV
+  - collier doppio pavé
+  - collier testa plain_C LAV
+  - collier testa pavé
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2023\BELLE EPOQUE - gennaio 24 - catena importante.xlsx
+  - croce brill 3° mis. 
+  - croce brill 4°mis.
+  - croce brill 3°mis. bordo blk
+  - croce brill 4°mis. bordo blk
+  - croce 3° mis. bordo luc.nero
+  - croce 3° mis. bordo luc.rosa )
+  - croce 3° mis. tt blk -bordo lu)
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2023\CROCI  B.EPOQUE COLLIERINI PER GIAPPONE.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2023\Fedi Platino Damiani ex costanzo e rizzetto.xlsm
+  - Foglio2
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2023\NOV 2023 cl cristal margherita con rub  per Tmall.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2023\OROLOGIO MARGHERITA CON FANCY CENTRALI 21-06-2023.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2023\OTT 2023 - CROCE MESSICO.xlsx
+  - skt def aggiornata 01-07-24
+  - 20104142 SKT def
+  - skt fornit aggiornata 03-07-24
+  - SKT del fornitore
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2023\OTT 2023 - MINOU FULL PAVE' FORME CON FY.xlsx
+  - 81101156 AN OV 0,51
+  - 81101157 P. OR FY OV 0,51+0,51 
+  - 81101158 AN OV 0,71
+  - 81101159 P. OR FY OV 0,70+0,74 
+  - 81101160 AN CS 0,50
+  - 81101161 P. OR FY CS 0,51+50 
+  - 81101162 AN CS 0,70
+  - 81101163 P. OR FY CS 0,71+73 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2023\schede Margherita_ lancio maggio2023.xlsx
+  - anello 2moduli
+  - anello 5moduli
+  - bracciale
+  - collana 2mod+cat
+  - collana 2mod
+  - collana 3mod
+  - collana 3 mod skt rivista
+  - orecchino 1mod+cat
+  - orecchino 2mod+cat
+  - mono orecchino 4mod
+  - orecchino 5mod non in lancio 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2023\SALVINI\I SEGNI_CROCI_schede def.xlsx
+  - croce OB+dia+LAPIS
+  - 20105112_corce oblapis
+  - croce OR+dia+ONICE
+  - 20105114_croce oronice
+  - croce OG+dia+MALAC 
+  - croce OB+diaBK+ONICE
+  - 20105121_OBONICE
+  - croce  LAPIS F e R
+  - 20105123 OBLAP
+  - croce ONICE F e R oro rosa
+  - 20105128 OR ONIDB
+  - croce MALACHITE F e R
+  - 20105136_OG MALAC
+  - croce ONICE F e R oro bianco
+  - croce ONICE F e R oro bianc (2)
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\Damiani_Richiesta codifica Taglie Aggiuntive_05022024.xlsx
+  - RECAP
+  - PV
+  - DB
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\Damiani_Richiesta codifica Taglie Aggiuntive_mkt.xlsx
+  - RECAP
+  - PV
+  - DB
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 BELLE EPOQUE\CONFRONTO SPESSORI - CATENE COLLIERINI BELLE EPOQUE VERSIONI FLD E NUOVI CAMPIONI.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 BELLE EPOQUE\2024 BELLE EPOQUE SKT FORNITORE\2033852.xlsx
+  - 20083244
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 BELLE EPOQUE\2024 BELLE EPOQUE SKT FORNITORE\2180856.xlsx
+  - 20083244
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 BELLE EPOQUE\2024 BELLE EPOQUE SKT FORNITORE\2180866.xlsx
+  - 20083244
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 BELLE EPOQUE REEL\20106389_2436822_AN_BE_REEL_FP_LANCIO_GIU_24_CON_TAGLIE_AGGIUNTIVE.xlsx
+  - BE REEL AN FP TAGLIE AGGIUNTIV 
+  - 20106389 NS skt clav DEF
+  - SKT FORNITORE C-LAV DEF 
+  - 20106389 NS SKT
+  - 20106389 SKT FORNITORE finito 
+  - SKT FORNITORE PESO ERRATO
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 CROCE BE SET FANCY LIMITED EDITION 100 PZ\81106311 COLLANA CROCE FANCY 100 - SKT CARLO.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 CROCE BE SET FANCY LIMITED EDITION 100 PZ\APR 2024 DAMIANI CROCE BE LIMITED EDITION 100PZ.xlsx
+  - NS SKT 
+  - SKT CARLO
+  - Scheda LD
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 MARGHERTIA\Magg_2024_MARGHERITA.xlsx
+  - 20106390 ns skt 
+  - 20106390 skt  fornitore
+  - 20106391 ns skt 
+  - 20106391 skt  fornitore
+  - 20106397 ns skt
+  - 20106397 skt fornitore
+  - 20106395 ns skt
+  - 20106395 skt fornitore
+  - bo dia wh 8 mm skt fornitore
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 MARGHERTIA\Sett_2024_MARGHERITA con semiprezioso.xlsx
+  -  ACQUAMARINA NS 
+  - cl fornitore acquamarina
+  - CL TORMALINA NS 
+  - cl fornitore tormalina
+  - CL TZAVORITE NS
+  - cl fornitore tzavorite
+  - BO ACQUAMARINA NS 
+  - bo fornitore acquamarina
+  - BO TORMALINA NS SKT
+  - bo fornitore tormalina
+  - BO TZAVORITE NS SKT
+  - Foglio5
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 MARGHERTIA\SETT_2024_MARGHERITA_CRISTAL_ANELLI_TAGLIE AGGIUNTIVE_MISURA_9.xlsx
+  - Margherita
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 MARGHERTIA\SETT_2024_MARGHERITA__ANELLI_TAGLIE AGGIUNTIVE_.xlsx
+  - Dettaglio
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 MINOU FULL PAVE TRILOGY\81105272 - 1 ANELLO MINOU FP TRY.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 MINOU FULL PAVE TRILOGY\81105273 - 1 ANELLO MINOU FP TRY.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 MINOU FULL PAVE TRILOGY\81105274 - 1 ANELLO MINOU FP TRY.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 VARI LD\81106571 - D ORECCHINI TORM VERDE.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 VARI LD\81106574 - D ANELLO TORM VERDE.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 VARI LD\BIBBIA_COSTI_LD_CON_AGGIORNAMENTI_MANIFATTURE\20241030DamianiContoLavoro_TaglieCOSTI STIMATI COERENZA TAGLIE.xlsx
+  - DamianiClavTAGLIE stime costi
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 VARI LD\BIBBIA_COSTI_LD_CON_AGGIORNAMENTI_MANIFATTURE\NUOVI_COSTI_LAVORAZIONE_FOLDER_20241030DamianiFinito.xlsx
+  - DamianiFinito
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\2024 VARI LD\BIBBIA_COSTI_LD_CON_AGGIORNAMENTI_MANIFATTURE\NUOVI_COSTI_LAVORAZIONI_FOLDER_20241030DamianiContoLavoro.xlsx
+  - DamianiClav
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\SALVINI\20241111SalviniFinito RIVISTO.xlsx
+  - SalviniFinito
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\SALVINI\Copia di 20241030SalviniContoLavoro.xlsx
+  - SalviniClav
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2024\SALVINI\SKT -SOLITARI BATTITO_SALVINI AGO 2024.xlsx
+  - RIEPILOGO
+  - TABELLA
+  - 81103866
+  - 81103867
+  - 81103868
+  - 81103869
+  - 81103870
+  - 114
+  - 118
+  - 121
+  - 125
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\81111654_2526502_LD_ AN_ ZAFFIRO 6.02 TAIWAN.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\20109906_12046592_2190203_BELLE_EPOQUE_CROCE_MOCHA_MARZO_2025.xlsx
+  - Foglio1
+  - Foglio2
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\PROSPETTO CROCE BE CLASSICA CON SPESSORI E CARATURE RIVISTE 23-06-25.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CAMPIONI NON ANDATI AVANTI\12045802_2132208_CROCE_BE_CON_AMETISTE.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CROCI VENEZUELA\20111310_2076709.xlsx
+  - 20111310
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CROCI VENEZUELA\20111311_2076719.xlsx
+  - 20111311
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CROCI VENEZUELA\20111366_2076729_BE_CROCE_Venezuela.xlsx
+  - 20111366 DEF
+  - 20111366 modif gr au 23-7 old  
+  - 20083244 non usare 
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CROCI VENEZUELA\20111565._2076739_BE_CROCE_Venezuela princess.xlsx
+  - 20111565 DEF 
+  - non usare old
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CROCI VENEZUELA\PROGRESS_Croce BE x VENEZUELA_Maggio25.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CROCI VENEZUELA\PROGRESS_Croce BE x VENEZUELA_Maggio25_ costi_pianificati.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\LD_BE_CUORI_PIETRE_DURE_FILE_RIEPILOGATIVO_DEFINITIVO.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20108932_12046337_2494101_ prototipo collana BE pietre dure_1°_MIS_MALACHITE_CUORE_LUCIDA.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20108933_12046338_2494001_ prototipo collana BE pietre dure_1°_MIS_MALACHITE_CUORE_INCASSATA.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20108934_12046339_2494111_ prototipo collana BE pietre dure_2°_MIS_MALACHITE_CUORE_LUCIDA - Copia.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20108936_12046340_2494011_prototipo collana BE pietre dure_2°_MIS_MALACHITE_CUORE_INCASSATO.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20108939_12046341_2494103_ prototipo collana BE pietre dure_1°_MIS_CORNIOLA_CUORE_LUCIDA - Copia.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20108940_12046342_2494003_ prototipo collana BE pietre dure_1°_MIS_CORNIOLA_CUORE_INCASSATA.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20108941_12046343_2494113_ prototipo collana BE pietre dure_2°_MIS_CORNIOLA_CUORE_LUCIDA.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20108942_12046344_2494013_ prototipo collana BE pietre dure_2°_MIS_CORNIOLA_CUORE_INCASSATA.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20109037_12046401_2494104_prototipo collana BE pietre dure_1°_MIS_MADREPERLA_CUORE_LUCIDA.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20109038_12046402_2494004_prototipo collana BE pietre dure_1°_MIS_MADREPERLA_CUORE_INCASSATA.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20109039_12046403_2494114_prototipo collana BE pietre dure_2°_MIS_MADREPERLA_CUORE_LUCIDA.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20109040_12046404_249401_prototipo collana BE pietre dure_2°_MIS_MADREPERLA_CUORE_INCASSATA.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20109041_12046405_2507904_PROTOTIPO_BO_BELLE_EPOQUE_1°_MIS_CORNIOLA_LUCIDA.xlsx
+  - 2507904
+  - skt LD
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20109042_12046411_2507901_PROTOTIPO_BO_BELLE_EPOQUE_1°_MIS_MALACHITE_LUCIDA.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20109043_12046413_2507903_PROTOTIPO_BO_BELLE_EPOQUE_1°_MIS_MADREPERLA_LUCIDA.xlsx
+  - 2507904
+  - skt LD
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20109044_12046414_2507914_PROTOTIPO_BO_BELLE_EPOQUE_1°_MIS_CORNIOLA_INCASSATA.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20109046_12046415_2507911_PROTOTIPO_BO_BELLE_EPOQUE_1°_MIS_MALACHITE_INCASSATA.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\2025 GENN BELLE EPOQUE CUORI\20109047_12046417_2507913_PROTOTIPO_BO_BELLE_EPOQUE_1°_MIS_MADREPERLA_INCASSATA.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\MAIL CON INFO LD\BELLE EPOQUE CUORI PIETRE DURE file riepilogativo.xlsx
+  - CUORE BE PIETRE
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\MAIL CON INFO LD\CUORI BE PIETRE CONFRONTO.xlsx
+  - CONFRONTO BE CUORE PIETRE
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\SKT OLD -NON USARE\2486602 - prototipo collana BE pietre dure_MALACHITE_CUORE_DOPPIO_MOBILE_INCASSATO.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\SKT OLD -NON USARE\2494003 - prototipo collana BE pietre dure_CORNIOLA_CUORE_INCASSATO.xlsx
+  - Foglio1
+  - Foglio2
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE\LD 2025 BELLE EPOQUE CUORI SEMIPREZIOSO\SKT OLD -NON USARE\2494113_ prototipo collana BE pietre dure_CORNIOLA_CUORE_LUCIDA - Copia.xlsx
+  - Foglio1
+  - Foglio2
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 BELLE EPOQUE\LD_2025_BELLE_EPOQUE_BRIDAL_BRILL_ESTERNO\BELLE EPOQUE BRIDAL CON BRILL ESTERNO FILE RIEPILOGATIVO CON CODICI 20XXX  18-12-2024.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 MARGHERITA\2025_MARGHERITA_IN_SVILUPPO\2518401.xlsx
+  - 20083244
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 MARGHERITA\2025_MARGHERITA_IN_SVILUPPO\2518701.xlsx
+  - 20083244
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 MARGHERITA\2025_MARGHERITA_IN_SVILUPPO\2518801.xlsx
+  - 20083244
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 MARGHERITA\2025_MARGHERITA_IN_SVILUPPO\2518811.xlsx
+  - 20083244
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 MARGHERITA\2025_MARGHERITA_IN_SVILUPPO\2518901.xlsx
+  - 20083244
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 MARGHERITA\2025_MARGHERITA_IN_SVILUPPO\2519001.xlsx
+  - 20083244
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 MARGHERITA\2025_MARGHERITA_IN_SVILUPPO\2519011.xlsx
+  - 20083244
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 MARGHERITA\2025_VARIE_MARGHERITA\20110557_MIS_13_20110671_MIS_9_MARGHERITA_CRISTAL_AN.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 MARGHERITA\2025_VARIE_MARGHERITA\81110102_2513602_MARGHERITA_GEMELLI.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 MARGHERITA\2025_VARIE_MARGHERITA\81110103_2513502_MARGHERITA_SPILLA.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 MARGHERITA\LD_202S_MARGHERITA_ANELLI_CENTENARIO_VERSIONE_MINI\81108604_2467302_AN_ACQUAM_MARGHERITA_VERSIONE_MINI_CENTERANRIO.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 MARGHERITA\LD_202S_MARGHERITA_ANELLI_CENTENARIO_VERSIONE_MINI\81108605_2467305_AN_MORGAN_MARGHERITA_VERSIONE_MINI_CENTERANRIO - Copia.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD 2025 MARGHERITA\LD_202S_MARGHERITA_ANELLI_CENTENARIO_VERSIONE_MINI\81108606_2467301_AN_CITRINO_MARGHERITA_VERSIONE_MINI_CENTERANRIO.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\BE REEL  BRACC  RIGIDI  PROPOSTA NUOVI PESI_20062025.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\2025_BELLE_EPOQUE_REEL_BR_RIGIDI_CODIFICA_TAGLIA_19_20\2312871.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\2025_BELLE_EPOQUE_REEL_BR_RIGIDI_CODIFICA_TAGLIA_19_20\2312872.xlsx
+  - 20083244
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\2025_BELLE_EPOQUE_REEL_BR_RIGIDI_CODIFICA_TAGLIA_19_20\2312874.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\2025_BELLE_EPOQUE_REEL_BR_RIGIDI_CODIFICA_TAGLIA_19_20\2312875.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\2025_BELLE_EPOQUE_REEL_BR_RIGIDI_CODIFICA_TAGLIA_19_20\2312876.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\2025_BELLE_EPOQUE_REEL_BR_RIGIDI_CODIFICA_TAGLIA_19_20\2312877.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\2025_BELLE_EPOQUE_REEL_IN_SVILUPPO\12046605_2432102_AN_BEREEL_TOPAZ_ per produzione def   14-03-25.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\2025_BELLE_EPOQUE_REEL_IN_SVILUPPO\12046606_2399432_AN_BEREEL_SPMULTICOLOR_DEF.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\2025_BELLE_EPOQUE_REEL_IN_SVILUPPO\2526602 prototipo collana BE REEL con black.xlsx
+  - skt CLAV
+  - skt pianificato
+  - Foglio2
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_BK\20111728_12046602_2225434_AN_BEREEL_BK.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_BK\20111729_12046604_2326452_CL-BEREEL-DIA_BK.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_BK\2457953_BELLE_EPOQUE_REEL_CROCE_CNC_60CM.xlsx
+  - 20083244
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_BK\2522102 BRACCIALE BE REEL BLACK con pianificato.xlsx
+  - skt c-lav 
+  - skt pianificato
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_BK\2522102 BRACCIALE BE REEL BLACK.xlsx
+  - skt  c-lav
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_CROCI\20111849_12046919_2457904.xlsx
+  - skt c-lav
+  - skt per costo pianificato
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_CROCI\20111852_2457954.xlsx
+  - skt conto lav
+  - skt pianificato
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_CROCI\20111853_12046921_2457902.xlsx
+  - skt c-lav
+  - skt pianificato
+  - listino pietre completo
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_CROCI\20111854_2457952.xlsx
+  - skt c-lavoro
+  - skt pianificato
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_CROCI\20111855_12046676_2457905.xlsx
+  - skt c-lav
+  - skt pianificato
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_CROCI\20111856_2457955.xlsx
+  - skt c_lav
+  - skt pianificato
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_CROCI\20111857_12046678_2457901.xlsx
+  - skt c-lavoro
+  - skt pianificato
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_CROCI\20111858_2457951.xlsx
+  - skt c-lav
+  - skt pianificato
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_CROCI\20111859_12046920_2457906.xlsx
+  - skt c-lav 
+  - skt pianificato
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_CROCI\20111860_2457956.xlsx
+  - skt c-lav 
+  - skt pianificato
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_CROCI\20111861_12046922_2457903.xlsx
+  - skt c-lav 
+  - skt pianificato
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_CROCI\20111862_2457953.xlsx
+  - skt c-lav
+  - skt pianificato
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\DAMIANI\LD_2025_BELLE_EPOQUE_REEL\LUGL_2025_BELLE_EPOQUE_REEL_CROCI\SETT 2025 LD BELLE EPOQUE REEL CROCI IN LANCIO FILE RIEPILOGATIVO.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\SALVINI\I SEGNI_SPECIAL EDITION_MOKA.xlsx
+  - farfalla II mis.pave_a catalogo
+  - cuore II mis.pave_a catalogo
+  - farfalla II mis.pave MOKA
+  - cuore II mis.pave MOKA
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\SALVINI\SEGNI ROCK_SOLO CAMPIONATURA.xlsx
+  - I NUOVI SEGNI
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\SALVINI\LD 2025 I NUOVI SEGNI SALVINI\I NUOVI SEGNI LD.xlsx
+  - I NUOVI SEGNI
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\LD 2025\SALVINI\LD 2025 I NUOVI SEGNI SALVINI\SALVINI _ I NUOVI SEGNI _ DETTAGLIO CODICI.xlsx
+  - Foglio1
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\SKT VARIE C-LAV GARRIONE\81088565 - D ANELLO ZAFFIRO GAMBO PAVE'.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\SKT VARIE C-LAV GARRIONE\81088566 - D ANELLO SMERALDO GAMBO PAVE'.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\SKT VARIE C-LAV GARRIONE\81088567 - D ANELLO RUBINO GAMBO PAVE'.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
+File: \\fsval\archivio$\Docsvps\SCHEDE TECNICHE FORNITORI\LABORATORIO DAMIANI\SKT VARIE C-LAV GARRIONE\81090193 - D ANELLO DM OV.xls - ERRORE: openpyxl does not support the old .xls file format, please use xlrd to read this file, or convert it to the more recent .xlsx file format.
+
